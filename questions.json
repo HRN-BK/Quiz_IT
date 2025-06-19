@@ -1,0 +1,4550 @@
+
+[
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "1",
+    "question": "Trong MS Word 2016, để văn bản bao quanh hình ảnh, ta dùng lệnh nào?",
+    "options": {
+      "A": "Behind Text",
+      "B": "In Front of Text",
+      "C": "Square",
+      "D": "Tight"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "2",
+    "question": "Trong MS Word 2016, để thay đổi vị trí lề trái chỉ cho dòng đầu của đoạn, ta dùng lệnh nào?",
+    "options": {
+      "A": "First Line Indent",
+      "B": "Left Indent",
+      "C": "Hanging Indent",
+      "D": "Right Indent"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "3",
+    "question": "Trong MS Word 2016, tập tin văn bản mẫu chứa biểu mẫu (form) thường được lưu dưới định dạng nào?",
+    "options": {
+      "A": "DOCX",
+      "B": "DOCM",
+      "C": "DOTX",
+      "D": "DOC"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "4",
+    "question": "Trong MS Word 2016, để văn bản nằm phía trên hoặc phía dưới hình ảnh, ta dùng lệnh nào?",
+    "options": {
+      "A": "Behind Text",
+      "B": "In Front of Text",
+      "C": "Square",
+      "D": "Top and Bottom"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "5",
+    "question": "Trong MS Word 2016, khi một từ bị phát hiện lỗi chính tả, lệnh \"Change\" dùng để làm gì?",
+    "options": {
+      "A": "Bỏ qua từ này và tiếp tục kiểm lỗi",
+      "B": "Bỏ qua tất cả các từ bị sai tương tự và tiếp tục kiểm lỗi từ mới",
+      "C": "Thay thế từ bị lỗi bằng từ vừa chọn và tiếp tục kiểm lỗi",
+      "D": "Thay thế tất cả từ bị lỗi bằng từ gợi ý"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "6",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết rà soát (track changes), mặc định văn bản bị xóa sẽ được hiển thị như thế nào trong chế độ “Final: Show Markup”?",
+    "options": {
+      "A": "Underline",
+      "B": "Double underline",
+      "C": "Strikethrough",
+      "D": "Double strikethrough"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "7",
+    "question": "Trong MS Word 2016, để kiểm lỗi chính tả khi nhập văn bản, ta dùng chức năng nào?",
+    "options": {
+      "A": "Check spelling as you type",
+      "B": "Mark grammar errors as you type",
+      "C": "Check grammar with spelling",
+      "D": "Hide spelling errors in this document only"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "8",
+    "question": "Trong MS Word 2016, khi áp dụng lệnh \"Flip Vertical\" cho hình ảnh thì kết quả như thế nào?",
+    "options": {
+      "A": "Hình sẽ xoay trái 180 độ",
+      "B": "Hình sẽ xoay phải 180 độ",
+      "C": "Hình sẽ đối xứng theo trục ngang",
+      "D": "Hình sẽ đối xứng theo trục dọc"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "9",
+    "question": "Trong MS Word 2016, khi thiết kế một biểu mẫu mà phần nội dung có các tùy chọn nơi sinh (ví dụ như TP.HCM, Hà Nội, Đà Nẵng, Cần Thơ) và người dùng chỉ có thể chọn một giá trị, ta nên dùng đối tượng điều khiển nào dưới đây?",
+    "options": {
+      "A": "Rich Text Content Control",
+      "B": "Check Box Content Control",
+      "C": "Combo Box Content Control",
+      "D": "Plain Text Content Control"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "10",
+    "question": "Trong MS Word 2016, để sửa lỗi tự động khi nhập văn bản, ta dùng lệnh nào?",
+    "options": {
+      "A": "Auto Text",
+      "B": "AutoCorrect",
+      "C": "AutoFormat",
+      "D": "AutoFormat As You Type"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "11",
+    "question": "Trong MS Word 2016, để làm trong suốt một sắc độ màu của hình ảnh, ta dùng lệnh nào?",
+    "options": {
+      "A": "Corrections",
+      "B": "Artistic Effects",
+      "C": "Set Transparent Color",
+      "D": "Reset Picture"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "12",
+    "question": "Trong MS Word 2016, khi một từ bị phát hiện lỗi chính tả, lệnh \"Ignore Once\" dùng để làm gì?",
+    "options": {
+      "A": "Bỏ qua từ này và tiếp tục kiểm lỗi",
+      "B": "Bỏ qua tất cả các từ bị sai tương tự và tiếp tục kiểm lỗi từ mới",
+      "C": "Thay thế từ bị lỗi bằng từ vừa chọn và tiếp tục kiểm lỗi",
+      "D": "Thay thế tất cả từ bị lỗi bằng từ gợi ý"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "13",
+    "question": "Trong MS Word 2016, để xóa một văn bản tự động (AutoText), ta chọn mục nào trong thẻ Insert - Quick Parts?",
+    "options": {
+      "A": "Auto Text",
+      "B": "Document Property",
+      "C": "Field...",
+      "D": "Building Blocks Organizer..."
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "14",
+    "question": "Trong MS Word 2016, chức năng nào dùng để hạn chế định dạng và sửa đổi nội dung trên văn bản?",
+    "options": {
+      "A": "Restrict Editing",
+      "B": "Track Changes",
+      "C": "Comment",
+      "D": "Show Markup"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "15",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết rà soát (track changes), mặc định văn bản được chèn thêm sẽ được hiển thị như thế nào trong chế độ \"Final: Show Markup\"?",
+    "options": {
+      "A": "Underline",
+      "B": "Double underline",
+      "C": "Strikethrough",
+      "D": "Double strikethrough"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "16",
+    "question": "Trong MS Word 2016, với văn bản có nhiều section, để tiêu đề đầu trang (header) của section đang chọn giống với tiêu đề đầu trang của section trước, ta chọn lệnh gì?",
+    "options": {
+      "A": "Different First Page",
+      "B": "Previous",
+      "C": "Next",
+      "D": "Link to Previous"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "17",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết rà soát (track changes), ta dùng lệnh gì trong mục \"Display for Review” để hiển thị văn bản cuối cùng?",
+    "options": {
+      "A": "Final",
+      "B": "Final: Show Markup",
+      "C": "Original",
+      "D": "Original: Show Markup"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU07",
+    "number": "18",
+    "question": "Trong MS Word 2016, lệnh Format Painter dùng để làm gì?",
+    "options": {
+      "A": "Sao chép định dạng",
+      "B": "Sao chép hiệu ứng",
+      "C": "Sao chép nội dung văn bản",
+      "D": "Sao chép hình"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "19",
+    "question": "Trong MS Excel 2016, khi sử dụng chức năng Advanced Filter, tùy chọn \"Unique records only” dùng để làm gì?",
+    "options": {
+      "A": "Danh sách kết quả hiển thị tại một trang tính khác",
+      "B": "Kết quả lọc có thể chứa các dòng trùng nhau",
+      "C": "Kết quả lọc không chứa các dòng trùng nhau",
+      "D": "Trích danh sách kết quả lọc đến một vị trí khác"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "20",
+    "question": "Trong MS Excel 2016, hàm INDEX() dùng để làm gì?",
+    "options": {
+      "A": "Dò tìm theo chiều dọc và trả về giá trị từ bảng dữ liệu khác",
+      "B": "Dò tìm theo chiều ngang và trả về giá trị từ bảng dữ liệu khác",
+      "C": "Dò tìm giá trị và trả về vị trí của giá trị đó trong dãy dò",
+      "D": "Trả về giá trị trong khối ô được xác định bởi chỉ số dòng và chỉ số cột"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "21",
+    "question": "Trong MS Excel 2016, khi tạo PivotTable, mục Row Labels dùng để làm gì?",
+    "options": {
+      "A": "Xác định các trường (fields) làm tiêu đề cột",
+      "B": "Xác định các trường làm tiêu đề dòng",
+      "C": "Xác định các trường để thực hiện tính toán thống kê",
+      "D": "Xác định các trường làm tiêu chí lọc"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "22",
+    "question": "Trong MS Excel 2016, dòng dữ liệu trong danh sách được gọi là gì?",
+    "options": {
+      "A": "Range",
+      "B": "Database",
+      "C": "Table",
+      "D": "Record"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "23",
+    "question": "Trong MS Excel 2016, khi thực hiện lệnh Conditional Formatting - New Rule... - Use a formula to determine which cells to format, với công thức =D$2<>5. Việc cố định địa chỉ dòng trong công thức trên có ý nghĩa là gì?",
+    "options": {
+      "A": "Định dạng nguyên dòng dữ liệu có ô trên cột D thỏa điều kiện",
+      "B": "Định dạng nguyên cột dữ liệu có ô trên dòng 2 thỏa điều kiện",
+      "C": "Định dạng nguyên dòng dữ liệu có ô trên cột D không thỏa điều kiện",
+      "D": "Định dang nguyên cột dữ liệu có ô trên dòng 2 không thỏa điều kiện"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "24",
+    "question": "Trong MS Excel 2016, hàm DCOUNT() dùng để làm gì?",
+    "options": {
+      "A": "Trả về giá trị số lớn nhất trong một trường của danh sách thỏa điều kiện cho trước",
+      "B": "Trả về giá trị số nhỏ nhất trong một trường của danh sách thỏa điều kiện cho trước",
+      "C": "Đếm các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "D": "Đếm các giá trị khác rỗng trong một trường của danh sách thỏa điều kiện cho trước"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "25",
+    "question": "Trong MS Excel 2016, công thức =INT(-2.5) trả về kết quả là gì?",
+    "options": {
+      "A": "-3",
+      "B": "-2.5",
+      "C": "-2"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "26",
+    "question": "Trong MS Excel 2016, lệnh \"Clear Validation Circles\" dùng để làm gì?",
+    "options": {
+      "A": "Đánh dấu các ô sai quy tắc nhập liệu",
+      "B": "Xóa quy tắc nhập liệu",
+      "C": "Xóa đánh dấu các ô sai quy tắc nhập liệu",
+      "D": "Đánh dấu các ô đúng quy tắc nhập liệu"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "27",
+    "question": "Trong MS Excel 2016, khi sử dụng chức năng \"Data Validation\" có bao nhiêu kiểu cảnh báo lỗi nhập liệu không hợp lệ?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "28",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc nhập liệu là giá trị số nguyên, ta chọn lệnh nào trong mục Validation Criteria - Allow?",
+    "options": {
+      "A": "Whole number",
+      "B": "Decimal",
+      "C": "Any value",
+      "D": "List"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "29",
+    "question": "Bạn Hoa có một bảng dữ liệu đã được định dạng khung và tô nền. Để xóa dữ liệu và các công thức tính toán nhưng viền khung và màu nền sẽ được giữ lại, Hoa dùng lệnh nào?",
+    "options": {
+      "A": "Clear All",
+      "B": "Clear Formats",
+      "C": "Clear Contents",
+      "D": "Clear Comments"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "30",
+    "question": "Trong MS Excel 2016, hàm VLOOKUP() dùng để làm gì?",
+    "options": {
+      "A": "Dò tìm theo chiều dọc và trả về giá trị từ bảng dữ liệu khác",
+      "B": "Dò tìm theo chiều ngang và trả về giá trị từ bảng dữ liệu khác",
+      "C": "Dò tìm giá trị và trả về vị trí của giá trị đó trong dãy dò",
+      "D": "Trả về giá trị trong khối ô được xác định bởi chỉ số dòng và chỉ số cột"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "31",
+    "question": "Trong MS Excel 2016, hàm nào dưới đây thuộc nhóm hàm dò tìm và tham chiếu?",
+    "options": {
+      "A": "DSUM()",
+      "B": "IF()",
+      "C": "MATCH()",
+      "D": "SUBTOTAL()"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "32",
+    "question": "Bạn Hoa cần chia sẻ một trang tính trong một tập tin Excel cho mọi người. Bạn ấy muốn người nhận được phép xem nhưng không được phép thay đổi nội dung của trang tính đó. Chức năng nào trong MS Excel 2016 giúp thực hiện điều này?",
+    "options": {
+      "A": "Protect Sheet",
+      "B": "Protect Workbook",
+      "C": "Allow Users to Edit Ranges",
+      "D": "Share Workbook"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "33",
+    "question": "Trong MS Excel 2016, công thức =CHOOSE(3, \"An\", \"Bo\", \"Cung\", \"Dung\") trả về kết quả là gì?",
+    "options": {
+      "A": "An",
+      "B": "Bo",
+      "C": "Cung",
+      "D": "Dung"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "34",
+    "question": "Trong MS Excel 2016, ta có một danh sách nhân viên gồm các cột MaNV, Họ Tên, Giới tính (Nam, Nữ), Chức vụ, MaPB, Lương. Ta có thể sử dụng hàm gì để tính tổng lương của các nhân viên nam theo từng mã phòng ban (MaPB)?",
+    "options": {
+      "A": "AVERAGE()",
+      "B": "SUMIF()",
+      "C": "AVERAGEIF()",
+      "D": "SUMIFS()"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "35",
+    "question": "Trong MS Excel 2016, hàm DSUM() dùng để làm gì?",
+    "options": {
+      "A": "Tính tổng các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "B": "Tính tích các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "C": "Tính trung bình cộng các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "D": "Trả về giá trị số lớn nhất trong một trường của danh sách thỏa điều kiện cho trước"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU08",
+    "number": "36",
+    "question": "Trong MS Excel 2016, hàm nào dưới đây không phải là hàm thống kê cơ sở dữ liệu?",
+    "options": {
+      "A": "DAVERAGE()",
+      "B": "DATEDIF()",
+      "C": "DCOUNT()",
+      "D": "DSUM()"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "37",
+    "question": "Trong MS PowerPoint 2016, để tạo liên kết đến một địa chỉ e-mail ta dùng lệnh gì trong hộp thoại Insert Hyperlink?",
+    "options": {
+      "A": "E-mail Address",
+      "B": "Address",
+      "C": "Existing File or Web Page",
+      "D": "Text to display"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "38",
+    "question": "Trong MS PowerPoint 2016, khi khai báo âm thanh cho hiệu ứng Transition, lệnh \"Loop until next sound” có tác dụng gì?",
+    "options": {
+      "A": "Âm thanh sẽ phát cho đến khi chuyển sang trang chiếu tiếp theo",
+      "B": "Âm thanh sẽ phát cho đến hết bài trình chiếu",
+      "C": "Âm thanh sẽ phát cho đến khi nhấn phim ESC để dừng trình chiếu",
+      "D": "Âm thanh sẽ phát lặp lại cho đến khi gặp âm thanh khác"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "39",
+    "question": "Trong MS PowerPoint 2016, sử dụng lệnh nào để ẩn các trang chiếu trong các section?",
+    "options": {
+      "A": "Remove Section",
+      "B": "Collapse All",
+      "C": "Remove All Sections",
+      "D": "Remove Section & Slides"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "40",
+    "question": "Trong MS PowerPoint 2016, đối tượng nào không bị tác động bởi lệnh Theme Effects?",
+    "options": {
+      "A": "Picture",
+      "B": "Shape",
+      "C": "Chart",
+      "D": "SmartArt"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "41",
+    "question": "Trong MS PowerPoint 2016, lệnh \"Reset Picture & Size\" thường dùng để làm gì đối với hình ảnh?",
+    "options": {
+      "A": "Phục hồi kích cỡ và những thay đổi định dạng về màu sắc",
+      "B": "Phục hồi kích cỡ và những thay đổi về kiểu định dạng",
+      "C": "Phục hồi các thay đổi về kiểu định dạng",
+      "D": "Phục hồi những thay đổi định dạng về màu sắc"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "42",
+    "question": "Trong MS PowerPoint 2016, để thiết lập font chữ chung cho toàn bộ bài trình chiếu, ta dùng lệnh gì?",
+    "options": {
+      "A": "Thẻ Home - Font",
+      "B": "Hộp thoại Font - Font",
+      "C": "Thẻ Home - Replace - Replace Font",
+      "D": "Thẻ Design - Theme Fonts"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "43",
+    "question": "Trong MS PowerPoint 2016, để chèn hiệu ứng hoạt hình cho đối tượng đang chọn, ta dùng lệnh gì?",
+    "options": {
+      "A": "Add Animation",
+      "B": "Animation Pane",
+      "C": "Reorder Animation",
+      "D": "Transition"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "44",
+    "question": "Trong MS PowerPoint 2016, để canh các đối tượng đang chọn thẳng hàng theo biên trái, ta dùng lệnh gì trong thẻ Format - Align?",
+    "options": {
+      "A": "Align Left",
+      "B": "Align Top",
+      "C": "Align Center",
+      "D": "Align Middle"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "45",
+    "question": "Trong MS PowerPoint 2016, để tô màu nền của hình vẽ, ta dùng lệnh gì?",
+    "options": {
+      "A": "Shape Fill",
+      "B": "Text Fill",
+      "C": "Shape Outline",
+      "D": "Text Outline"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "46",
+    "question": "Trong MS PowerPoint 2016, để thiết lập âm thanh phát xuyên suốt qua các trang chiếu, ta dùng lệnh gì trong thẻ Playback?",
+    "options": {
+      "A": "Start - On Click",
+      "B": "Start - Automatically",
+      "C": "Start - Play across slides",
+      "D": "Loop Until Stopped"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "47",
+    "question": "Trong MS PowerPoint 2016, lệnh Align - Align Right dùng để làm gì?",
+    "options": {
+      "A": "Canh các đối tượng đang chọn thẳng hàng theo biên trên",
+      "B": "Canh các đối tượng đang chọn thẳng hàng theo biên dưới",
+      "C": "Canh các đối tượng đang chọn thẳng hàng theo biên trái",
+      "D": "Canh các đối tượng đang chọn thẳng hàng theo biên phải"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "48",
+    "question": "Trong MS PowerPoint 2016, để hiệu chỉnh nhiệt độ màu của hình ảnh, ta dùng lệnh nào trong nhóm Adjust?",
+    "options": {
+      "A": "Corrections",
+      "B": "Color",
+      "C": "Artistic Effects",
+      "D": "Remove Background"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "49",
+    "question": "Trong MS PowerPoint 2016, để thiết lập nền cho trang chiếu bằng hình ảnh, ta dùng lệnh gì?",
+    "options": {
+      "A": "Format Background...",
+      "B": "Insert - ClipArt",
+      "C": "Insert - Picture",
+      "D": "Design - Themes"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 01",
+    "lesson": "Mô đun IU09",
+    "number": "50",
+    "question": "Trong MS PowerPoint 2016, hiệu ứng Transitions dùng để làm gì?",
+    "options": {
+      "A": "Tạo hiệu ứng xuất hiện cho các đối tượng trong trang chiếu",
+      "B": "Tạo hiệu ứng biến mất cho các đối tượng trong trang chiều",
+      "C": "Tạo hiệu ứng chuyển tiếp cho các đối tượng trong trang chiếu",
+      "D": "Tạo hiệu ứng chuyển tiếp giữa các trang chiếu"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "1",
+    "question": "Trong MS Word 2016, định dạng ký tự đầu đoạn thường thuộc kiểu định dạng (style) nào?",
+    "options": {
+      "A": "Normal",
+      "B": "Heading 1",
+      "C": "List Paragraph",
+      "D": "Title"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "2",
+    "question": "Trong MS Word 2016, để tạo chú thích cho hình ảnh, ta dùng lệnh gì?",
+    "options": {
+      "A": "Insert Caption",
+      "B": "Insert Citation",
+      "C": "Insert Table...",
+      "D": "Mark Entry"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "3",
+    "question": "Trong MS Word 2016, để chèn dầu ngắt cột trong văn bản có chia cột, ta dùng lệnh nào trong thẻ Page Layout - Breaks?",
+    "options": {
+      "A": "Page",
+      "B": "Column",
+      "C": "Continuous",
+      "D": "Next Page"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "4",
+    "question": "Trong MS Word 2016, khi dán văn bản được sao chép từ Internet vào Word, lệnh \"Keep Source Formatting\" có tác dụng gì?",
+    "options": {
+      "A": "Giữ lại định dạng và kiểu style của văn bản sao chép",
+      "B": "Giữ lại định dạng nhưng có style là Normal",
+      "C": "Chỉ sao chép văn bản, không sao chép các định dạng",
+      "D": "Chỉ sao chép văn bản, không sao chép các hyperlink"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "5",
+    "question": "Trong MS Word 2016, có bao nhiêu bước khi tạo mail merge bằng lệnh \"Step by Step Mail Merge Wizard...\"?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "6",
+    "question": "Trong MS Word 2016, khi dán văn bản được sao chép từ Internet vào Word, lệnh \"Merge Formatting\" có tác dụng gì?",
+    "options": {
+      "A": "Giữ lại định dạng và kiểu style của văn bản sao chép",
+      "B": "Giữ lại định dạng nhưng có style là Normal",
+      "C": "Chỉ sao chép văn bản, không sao chép các định dạng",
+      "D": "Chỉ sao chép văn bản, không sao chép các hyperlink"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "7",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết rà soát (track changes), lệnh “Final: Show Markup\" dùng để làm gì?",
+    "options": {
+      "A": "Chỉ hiển thị văn bản cuối cùng",
+      "B": "Hiển thị văn bản cuối cùng có kèm các ký hiệu đánh dấu nội dung đã được sửa đổi",
+      "C": "Chỉ hiển thị văn bản ban đầu",
+      "D": "Hiển thị văn bản ban đầu có kèm các ký hiệu đánh dấu nội dung đã được sửa đổi"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "8",
+    "question": "Trong MS Word 2016, để giới hạn không cho phép người dùng chỉnh sửa tài liệu nhưng được phép thực hiện các nhận xét hay bình luận, ta chọn mục nào sau đây trong phần “Editing restrictions”?",
+    "options": {
+      "A": "No change (Read only)",
+      "B": "Tracked changes",
+      "C": "Comments",
+      "D": "Filling in forms"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "9",
+    "question": "Trong MS Word 2016, giả sử bạn cần tạo một tài liệu gồm 3 chương khác nhau tương ứng với 3 tập tin chapter1.docx, chapter2.docx và chapter3.docx. Để tạo tài liệu chung chứa nội dung của cả 3 tập tin trên với điều kiện khi nội dung của từng chương có thay đổi thì tài liệu chung tự cập nhật theo, ta nên dùng kỹ thuật nào?",
+    "options": {
+      "A": "Master document",
+      "B": "Compare",
+      "C": "Combine",
+      "D": "Cross-reference"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "10",
+    "question": "Trong MS Word 2016, để chèn hộp danh sách khi thiết kế biểu mẫu, ta chọn đối tượng điều khiển nào dưới đây?",
+    "options": {
+      "A": "Rich Text Content Control",
+      "B": "Check Box Content Control",
+      "C": "Combo Box Content Control",
+      "D": "Plain Text Content Control"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "11",
+    "question": "Trong MS Word 2016, để chèn trực tiếp field code vào văn bản, ta dùng phím gì?",
+    "options": {
+      "A": "F9",
+      "B": "Shift + F9",
+      "C": "Alt + F9",
+      "D": "Ctrl + F9"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "12",
+    "question": "Trong MS Word 2016, để thay đổi vị trí lề trái cho các dòng ngoại trừ dòng đầu của đoạn, ta dùng lệnh nào?",
+    "options": {
+      "A": "First Line Indent",
+      "B": "Left Indent",
+      "C": "Hanging Indent",
+      "D": "Right Indent"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "13",
+    "question": "Trong MS Word 2016, để chuyển đổi chế độ hiển thị giữa field value và field code đang chọn, ta dùng phím gì?",
+    "options": {
+      "A": "F9",
+      "B": "Shift + F9",
+      "C": "Alt + F9",
+      "D": "Ctrl + F9"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "14",
+    "question": "Trong MS Word 2016, để chuyển đổi vị trí giữa phần ký hiệu chú thích (Reference mark) và phần nội dung chú thích, ta dùng lệnh gì?",
+    "options": {
+      "A": "Next Footnote",
+      "B": "Next Endnote",
+      "C": "Show Notes",
+      "D": "Previous Endnote"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "15",
+    "question": "Trong MS Word 2016, kiểu định dạng mặc định (style) của văn bản là gì?",
+    "options": {
+      "A": "A Content",
+      "B": "Tide",
+      "C": "Heading 1",
+      "D": "Normal"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "16",
+    "question": "Trong MS Word 2016, để văn bản bao quanh khung hình ảnh, ta dùng lệnh nào?",
+    "options": {
+      "A": "Behind Text",
+      "B": "In Front of Text",
+      "C": "Square",
+      "D": "Tight"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "17",
+    "question": "Trong MS Word 2016, để thực hiện tạo thư mới cho nhiều khách hàng từ một bảng dữ liệu ta dùng loại trộn thư nào?",
+    "options": {
+      "A": "Letters",
+      "B": "Labels...",
+      "C": "Envelopes...",
+      "D": "E-mail Messages"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU07",
+    "number": "18",
+    "question": "Trong MS Word 2016, để gom nhiều hình ảnh thành một đối tượng, ta dùng lệnh gì?",
+    "options": {
+      "A": "Change Pictures",
+      "B": "Compress Pictures",
+      "C": "Ungroup",
+      "D": "Group"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "19",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc nhập liệu cho khối ô từ A3:A10 có giá trị nhập là một trong hai giá trị \"Nam\" hoặc \"Nữ\", ta khai báo công thức nào trong Custom - Formula?",
+    "options": {
+      "A": "=AND(A3=\"Nam\", A3= \"Nữ\")",
+      "B": "=AND($A$3=\"Nam\", $A$3= \"Nữ\")",
+      "C": "=OR(A3=\"Nam\", A3= \"Nữ\")",
+      "D": "=OR($A$3=\"Nam\", $A$3= \"Nữ\")"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "20",
+    "question": "Trong MS Excel 2016, đối với dữ liệu số khi thực hiện sao chép bằng lệnh Paste Special... - Operation - Divide dùng để làm gì?",
+    "options": {
+      "A": "Để lấy dữ liệu trong ô đích chia cho dữ liệu sao chép tương ứng",
+      "B": "Để lấy dữ liệu trong ô đích nhân với dữ liệu sao chép tương ứng",
+      "C": "Để lấy dữ liệu sao chép tương ứng chia cho dữ liệu trong ô đích",
+      "D": "Để lấy dữ liệu là dữ liệu sao chép tương ứng"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "21",
+    "question": "Trong MS Excel 2016, công thức =INT(2.5) trả về kết quả là gì?",
+    "options": {
+      "A": "2",
+      "B": "-2.5",
+      "C": "3",
+      "D": "#VALUE!"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "22",
+    "question": "Để thay đổi dữ liệu nguồn cho bảng thống kê PivotTable ta dùng lệnh nào?",
+    "options": {
+      "A": "Refresh",
+      "B": "Select",
+      "C": "Move PivotTable",
+      "D": "Change Data Source"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "23",
+    "question": "Trong MS Excel 2016, công thức = AVERAGE(2*3, 5, 7) trả về kết quả là gì?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "#VALUE!"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "24",
+    "question": "Trong MS Excel 2016, để đánh dấu các ô bị sai quy tắc nhập liệu, ta dùng lệnh gì trong thẻ Data (nhóm Data Tools)?",
+    "options": {
+      "A": "Data Validation... - Clear All",
+      "B": "Circle Invalid Data",
+      "C": "Remove Duplicates",
+      "D": "Clear Validation Circles"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "25",
+    "question": "Trong MS Excel 2016, khi thực hiện lệnh Conditional Formatting - New Rule... - Use a formula to determine which cells to format, với công thức =$D2>5. Việc cố định địa chỉ cột trong công thức trên có ý nghĩa là gì?",
+    "options": {
+      "A": "Định dạng nguyên dòng dữ liệu có ô trên cột D thỏa điều kiện",
+      "B": "Định dạng nguyên cột dữ liệu có ô trên dòng 2 thỏa điều kiện",
+      "C": "Định dạng nguyên dòng dữ liệu có ô trên cột D không thỏa điều kiện",
+      "D": "Định dạng nguyên cột dữ liệu có ô trên dòng 2 không thỏa điều kiện"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "26",
+    "question": "Trong MS Excel 2016, để định dạng dữ liệu có điều kiện kiểu biểu tượng (ví dụ như các dạng mũi tên), ta dùng lệnh gì trong Conditional Formatting?",
+    "options": {
+      "A": "Data Bars",
+      "B": "Color Scales",
+      "C": "Icon Sets",
+      "D": "Highlight Cells Rules"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "27",
+    "question": "Trong MS Excel 2016, trong các công thức sau đây công thức nào là đúng cú pháp?",
+    "options": {
+      "A": "=SUMIF(\"Cam\", A2:A5)",
+      "B": "=SUMIF(A2:A5, B2:B5, \"Cam\")",
+      "C": "=SUMIF(\"Cam\", A2:A5, B2:B5)",
+      "D": "SUMIF(A2:A5, \"Cam\", B2:B5)"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "28",
+    "question": "Trong MS Excel 2016, khi thực hiện sao chép với chức năng Paste Special, lệnh nào sẽ được dùng để giữ lại các giá trị tại các ô đích khi trong khối ô sao chép có những vị trí tương ứng là ô rỗng?",
+    "options": {
+      "A": "Skip blanks",
+      "B": "Formats",
+      "C": "Value",
+      "D": "Transpose"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "29",
+    "question": "Trong MS Excel 2016, hàm DAVERAGE() dùng để làm gì?",
+    "options": {
+      "A": "Tính tổng các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "B": "Tính tích các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "C": "Tính trung bình cộng các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "D": "Trả về giá trị số lớn nhất trong một trường của danh sách thỏa điều kiện cho trước"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "30",
+    "question": "Trong MS Excel 2016, hàm DMAX() dùng để làm gì?",
+    "options": {
+      "A": "Tính tổng các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "B": "Tính tích các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "C": "Tính trung bình cộng các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "D": "Trả về giá trị số lớn nhất trong một trường của danh sách thỏa điều kiện cho trước"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "31",
+    "question": "Trong MS Excel 2016, khi sử dụng hàm MATCH() để dò tìm giá trị lớn nhất trong dãy dò mà giá trị đó nhỏ hơn hoặc bằng giá trị dò tìm thì dữ liệu trong dãy dò sẽ được tổ chức như thế nào?",
+    "options": {
+      "A": "Sắp xếp dữ liệu tăng dần",
+      "B": "Sắp xếp dữ liệu giảm dần",
+      "C": "Chỉ sắp xếp khi dữ liệu là giá trị chuỗi",
+      "D": "Chỉ sắp xếp khi dữ liệu là giá trị số"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "32",
+    "question": "Trong MS Excel 2016, ta có một danh sách nhân viên gồm các cột MaNV, Họ Tên, Giới tính (Nam, Nữ), Chức vụ, MaPB, Lương. Ta có thể sử dụng hàm gì để tính lương trung bình của các nhân viên nữ theo từng mã phòng ban (MaPB)?",
+    "options": {
+      "A": "AVERAGEIF()",
+      "B": "SUMIF()",
+      "C": "AVERAGEIFS()",
+      "D": "SUMIFS()"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "33",
+    "question": "Trong MS Excel 2016, khi sử dụng chức năng Advanced Filter, tùy chọn \"Filter the list, in-place\" dùng để làm gì?",
+    "options": {
+      "A": "Danh sách kết quả hiển thị tại một trang tính khác",
+      "B": "Hiển thị kết quả lọc ngay tại danh sách ban đầu",
+      "C": "Kết quả lọc không chứa các dòng trùng nhau",
+      "D": "Trích danh sách kết quả lọc đến một vị trí khác"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "34",
+    "question": "Trong MS Excel 2016, để giới hạn phạm vi nhập liệu, ta dùng chức năng nào?",
+    "options": {
+      "A": "Conditional Formatting",
+      "B": "Advanced Filter",
+      "C": "Consolidate",
+      "D": "Data Validation"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "35",
+    "question": "Trong MS Excel 2016, để sắp xếp danh sách tăng dần theo cột dữ liệu dạng ngày tháng, tại hộp thoại Sort ta chọn lệnh nào?",
+    "options": {
+      "A": "A to Z",
+      "B": "Smallest to Largest",
+      "C": "Oldest to Newest",
+      "D": "Newest to Oldest"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU08",
+    "number": "36",
+    "question": "Trong MS Excel 2016, chức năng Protect Sheet dùng để làm gì?",
+    "options": {
+      "A": "Cài đặt mật khẩu cho bảng tinh",
+      "B": "Cài đặt mật khẩu cho trang tính hiện hành",
+      "C": "Cài đặt mật khẩu cho tất cả các trang tính trong bảng tính",
+      "D": "Cái đặt mật khẩu để thiết lập chế độ chỉ đọc (read only) cho bảng tính"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "37",
+    "question": "Trong MS PowerPoint 2016, để chuyển đổi đường thẳng có mũi tên hai đầu đang chọn thành đường thẳng không có mũi tên, ta dùng lệnh gì?",
+    "options": {
+      "A": "More Outline Colors...",
+      "B": "Weight",
+      "C": "Dashes",
+      "D": "Arrows"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "38",
+    "question": "Trong MS PowerPoint 2016, khi thực hiện kết hợp các hình vẽ, lệnh Shape Intersect dùng để làm gì?",
+    "options": {
+      "A": "Hợp các hình vẽ với nhau",
+      "B": "Hợp các hình vẽ với nhau loại trừ phần giao của các hình vẽ",
+      "C": "Lấy phần giao nhau của các hình vẽ",
+      "D": "Lấy hình vẽ được chọn đầu tiên loại trừ phần giao với các hình vẽ còn lại"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "39",
+    "question": "Trong MS PowerPoint 2016, để thay đổi bộ màu cho mẫu định dạng của bài trình chiếu, ta dùng lệnh gì?",
+    "options": {
+      "A": "Thẻ Home - Font Color",
+      "B": "Thẻ (Drawing Tools) Format - Text Fill",
+      "C": "Thẻ (Drawing Tools) Format - Shape Fill",
+      "D": "Thẻ Design - Theme Colors"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "40",
+    "question": "Trong MS PowerPoint 2016, khung chứa văn bản và các nút lệnh chèn bảng biểu, đồ thị, hình ảnh,... được gọi là gì?",
+    "options": {
+      "A": "Callouts",
+      "B": "Text Box",
+      "C": "Text Pane",
+      "D": "Placeholder"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "41",
+    "question": "Trong MS PowerPoint 2016, để canh các đối tượng đang chọn thẳng hàng theo biên trên, ta dùng lệnh gì trong thẻ Format - Align?",
+    "options": {
+      "A": "Align Left",
+      "B": "Align Top",
+      "C": "Align Center",
+      "D": "Align Middle"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "42",
+    "question": "Trong MS PowerPoint 2016, khi chèn âm thanh vào bài trình chiếu, lệnh Volumn - High dùng để làm gì?",
+    "options": {
+      "A": "Thiết lập âm lượng của bản nhạc từ nhỏ đến lớn dần",
+      "B": "Thiết lập âm lượng của bản nhạc từ lớn đến nhỏ dần",
+      "C": "Thiết lập âm lượng của bản nhạc lớn",
+      "D": "Thiết lập âm lượng của bản nhạc nhỏ"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "43",
+    "question": "Trong MS PowerPoint 2016, để vô hiệu hóa thời gian trình chiếu tự động được thiết lập bằng chức năng Rehearse Timings, ta hủy chọn mục nào trong thẻ Slide Show?",
+    "options": {
+      "A": "Play Narrations",
+      "B": "Show Media control",
+      "C": "Use Timings",
+      "D": "Use Presenter View"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "44",
+    "question": "Trong MS PowerPoint 2016, định dạng tập tin nào dùng để lưu bài thuyết trình dưới dạng video?",
+    "options": {
+      "A": "PDF",
+      "B": "WMV",
+      "C": "WMF",
+      "D": "RTF"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "45",
+    "question": "Trong MS PowerPoint 2016, để tô màu đường viền của hình vẽ, ta dùng lệnh gì?",
+    "options": {
+      "A": "Shape Fill",
+      "B": "Text Fill",
+      "C": "Shape Outline",
+      "D": "Text Outline"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "46",
+    "question": "Trong MS PowerPoint 2016, lệnh Align - Align Center dùng để làm gì?",
+    "options": {
+      "A": "Canh giữa các đối tượng đang chọn theo chiều dọc",
+      "B": "Canh giữa các đối tượng đang chọn theo chiều ngang",
+      "C": "Canh đều khoảng cách giữa các đối tượng đang chọn theo chiều dọc",
+      "D": "Canh đều khoảng cách giữa các đối tượng đang chọn theo chiều ngang"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "47",
+    "question": "Trong MS PowerPoint 2016, khi xử lý các đối tượng hình vẽ, lệnh Bring Forward dùng để làm gì?",
+    "options": {
+      "A": "Chuyển đối tượng đang chọn xuống dưới một lớp",
+      "B": "Chuyển đối tượng đang chọn xuống lớp dưới cùng",
+      "C": "Chuyển đối tượng đang chọn lên trên một lớp",
+      "D": "Chuyển đối tượng đang chọn lên lớp trên cùng"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "48",
+    "question": "Trong MS PowerPoint 2016, khi thực hiện kết hợp các hình vẽ, lệnh Shape Union dùng để làm gì?",
+    "options": {
+      "A": "Hợp các hình vẽ với nhau",
+      "B": "Hợp các hình vẽ với nhau loại trừ phần giao của các hình vẽ",
+      "C": "Lấy phần giao nhau của các hình vẽ",
+      "D": "Lấy hình vẽ được chọn đầu tiên loại trừ phần giao với các hình vẽ còn lại"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "49",
+    "question": "Trong MS PowerPoint 2016, khi chèn âm thanh vào bài trình chiếu, để thiết lập âm thanh phát lặp đi lặp lại, ta dùng lệnh gì trong thẻ Playback?",
+    "options": {
+      "A": "Start - On Click",
+      "B": "Start - Automatically",
+      "C": "Start - Play Across Slides",
+      "D": "Loop Until Stopped"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 02",
+    "lesson": "Mô đun IU09",
+    "number": "50",
+    "question": "Trong MS PowerPoint 2016, lệnh Text Outline dùng để làm gì?",
+    "options": {
+      "A": "Tô màu nền hình vẽ",
+      "B": "Tô màu chữ",
+      "C": "Tô màu đường viền hình vẽ",
+      "D": "Tô màu đường viền chữ"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "1",
+    "question": "Trong MS Word 2016, lệnh Footnote dùng để làm gì?",
+    "options": {
+      "A": "Chèn chú thích vào cuối dòng văn bản",
+      "B": "Chèn chú thích vào cuối đoạn văn bản",
+      "C": "Chèn chú thích vào cuối trang văn bản",
+      "D": "Chèn chú thích vào cuối văn bản"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "2",
+    "question": "Trong MS Word 2016, khi thay đổi kích thước của hình ảnh trong thẻ (Picture Tools) Format - nhóm Size thì lệnh \"Lock aspect ratio\" dùng để làm gì?",
+    "options": {
+      "A": "Không thay đổi tỷ lệ giữa chiều cao và chiều rộng của hình ảnh",
+      "B": "Không thay đổi kích thước chiều cao thật của hình ảnh",
+      "C": "Không thay đổi kích thước chiều rộng thật của hình ảnh",
+      "D": "Không thay đổi kích thước chiều cao và chiều rộng thật của hình ảnh"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "3",
+    "question": "Trong MS Word 2016, để đánh dấu xác thực cho văn bản, ta dùng lệnh gì?",
+    "options": {
+      "A": "Footnote",
+      "B": "Watermark",
+      "C": "Header",
+      "D": "Caption"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "4",
+    "question": "Trong MS Word 2016, để định dạng hình ảnh nằm trên văn bản, ta dùng lệnh nào?",
+    "options": {
+      "A": "Behind Text",
+      "B": "In front of text",
+      "C": "Square",
+      "D": "Tight"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "5",
+    "question": "Trong MS Word 2016, chức năng Auto Text dùng để làm gì?",
+    "options": {
+      "A": "Tạo ký tự hoặc từ gỗ tắt, giúp nhập nhanh văn bản",
+      "B": "Tạo số trang tự động khi nhập văn bản",
+      "C": "Tự động sửa lỗi khi nhập văn bản",
+      "D": "Tự động sửa lỗi viết thường đầu câu"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "6",
+    "question": "Trong MS Word 2016, để kết quả tim kiếm có phân biệt chữ in hoa và chữ thường, ta chọn mục nào trong hộp thoại \"Find and Replace\"?",
+    "options": {
+      "A": "Match case",
+      "B": "Find whole words only",
+      "C": "Use wildcards",
+      "D": "Special"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "7",
+    "question": "Trong MS Word 2016, tập tin mẫu (template file) có định dạng là gì?",
+    "options": {
+      "A": "DOTX",
+      "B": "DOCX",
+      "C": "DOCM",
+      "D": "DOTM"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "8",
+    "question": "Trong MS Word 2016, lệnh định dạng \"Widow/Orphan control” có tác dụng gì đối với đoạn văn?",
+    "options": {
+      "A": "Không để dòng đầu hoặc dòng cuối của đoạn đang chọn nằm một mình trên một trang",
+      "B": "Đoạn đang chọn với đoạn phía dưới nằm cùng một trang",
+      "C": "Các dòng của đoạn đang chọn nằm trên cùng một trang",
+      "D": "Chèn dấu ngắt trang truớc đoạn đang chọn"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "9",
+    "question": "Trong MS Word 2016, để tạo nhãn tương ứng cho nhiều khách hàng từ một bảng dữ liệu ta dùng loại mail merge nào?",
+    "options": {
+      "A": "Letters",
+      "B": "Labels...",
+      "C": "Envelopes...",
+      "D": "E-mail Messages"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "10",
+    "question": "Trong MS Word 2016, thao tác nào dùng để sao chép định dạng của khối văn bản đang chọn cho nhiều khối văn bản khác?",
+    "options": {
+      "A": "Nhấp nút Format Painter",
+      "B": "Nhấp đúp nút Format Painter",
+      "C": "Alt + nhấp nút Format Painter",
+      "D": "Ctrl + nhấp nút Format Painter"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "11",
+    "question": "Trong MS Word 2016, khi một từ bị phát hiện lỗi chính tả, để bỏ qua tất cả các từ bị sai tương tự và tiếp tục kiểm lỗi từ mới, ta dùng lệnh gì?",
+    "options": {
+      "A": "Ignore Once",
+      "B": "Ignore All",
+      "C": "Change",
+      "D": "Change All"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "12",
+    "question": "Trong MS Word 2016, để chèn bảng danh mục bảng biểu vào văn bản, ta dùng lệnh gì?",
+    "options": {
+      "A": "Insert Table...",
+      "B": "Insert Table of Figures",
+      "C": "Insert Table of Contents...",
+      "D": "Insert Table of Authorities"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "13",
+    "question": "Trong MS Word 2016, khi tắt chức năng \"Typing replaces selected text\" điều gì sẽ xảy ra khi nhập văn bản?",
+    "options": {
+      "A": "Thay thế khối văn bản đang chọn bằng ký tự nhập vào",
+      "B": "Thay thế toàn bộ văn bản bằng ký tự nhập vào",
+      "C": "Chèn ký tự nhập vào ở phía trước khối văn bản đang chọn",
+      "D": "Chèn ký tự nhập vào ở phía sau khối văn bản đang chọn"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "14",
+    "question": "Trong MS Word 2016, để chèn hộp văn bản có định dạng khi thiết kế biểu mẫu, ta chọn đối tượng điều khiển nào dưới đây?",
+    "options": {
+      "A": "Rich Text Content Control",
+      "B": "Plain Text Content Control",
+      "C": "Combo Box Content Control",
+      "D": "Drop-Down List Content Control"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "15",
+    "question": "Trong MS Word 2016, style Normal được áp dụng mặc định cho loại đối tượng nào?",
+    "options": {
+      "A": "Hình ảnh",
+      "B": "Hình vẽ",
+      "C": "Văn bản",
+      "D": "Chữ nghệ thuật"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "16",
+    "question": "Trong MS Word 2016, để tạo nhận xét hay bình luận trong văn bản, ta dùng lệnh gì?",
+    "options": {
+      "A": "New Comment",
+      "B": "Insert Footnote",
+      "C": "Insert Caption",
+      "D": "Bookmark"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "17",
+    "question": "Trong MS Word 2016, sau khi dùng lệnh \"Clear Formatting\" để xóa định dạng văn bản sẽ có kiểu định dạng (style) nào?",
+    "options": {
+      "A": "Normal",
+      "B": "Title",
+      "C": "Heading 1",
+      "D": "List paragraph"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU07",
+    "number": "18",
+    "question": "Trong MS Word 2016, lệnh \"Set as Default' trong hộp thoại Font dùng để làm gì?",
+    "options": {
+      "A": "Định dạng font chữ mặc định cho style Normal",
+      "B": "Định dạng font chữ cho văn bản đang chọn",
+      "C": "Định dạng font chữ cho đoạn văn bản đang chọn",
+      "D": "Định dạng font chữ mặc định cho style Heading 1"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "19",
+    "question": "Trong MS Excel 2016, để đặt tên cho khối ô đang chọn, ta dùng lệnh gì trong thẻ Formulas?",
+    "options": {
+      "A": "Insert Function",
+      "B": "Name Manager",
+      "C": "Define Name",
+      "D": "Create from Selection"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "20",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc nhập liệu cho khối ô từ A3:A10 có giá trị nhập bắt buộc có các ký tự đầu là “KT\", ta khai báo công thức nào trong Custom - Formula?",
+    "options": {
+      "A": "LEFT(A3, 2) =\"KT\"",
+      "B": "RIGHT(A3, 2)=\"KT\"",
+      "C": "MID(A3, 2. 2) =\"KT\"",
+      "D": "LEN(A3)=\"KT\""
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "21",
+    "question": "Trong MS Excel 2016, hàm COUNTIF() dùng để làm gì?",
+    "options": {
+      "A": "Đếm các giá trị thỏa điều kiện trong vùng xác định",
+      "B": "Tính tổng các giá trị thỏa điều kiện trong vùng xác định",
+      "C": "Tính trung bình cộng các giá trị thỏa điều kiện trong vùng xác định",
+      "D": "Đếm các giá trị thỏa nhiều điều kiện chứa trong các vùng dữ liệu tương ứng"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "22",
+    "question": "Trong MS Excel 2016, khi sử dụng chức năng Advanced Filter, công thức nào dưới đây dùng để lọc ra các dòng dữ liệu thỏa điều kiện khách thuê phòng từ 1 tuần trở lên. Giả sử ô D1 chứa tiêu đề cột là Ngày Nhận Phòng, ô E1 là tiêu đề cột là Ngày Trả Phòng.",
+    "options": {
+      "A": "=INT((E2-D2)/7) >= 1",
+      "B": "=MOD((E2-D2), 7) >= 1",
+      "C": "=INT(E2-D2/7) >= 1",
+      "D": "=MOD((E2-D2)/7) >= 1"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "23",
+    "question": "Trong MS Excel 2016, công thức =CHOOSE(2, 3, 4, 5) trả về kết quả là gì?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "24",
+    "question": "Trong MS Excel 2016, khi thực hiện sao chép với chức năng Paste Special, lệnh Operation -Subtract dùng để làm gì?",
+    "options": {
+      "A": "Để lấy dữ liệu trong ô đích cộng với dữ liệu sao chép tương ứng",
+      "B": "Để lấy dữ liệu trong ô đích trừ đi dữ liệu sao chép tương ứng",
+      "C": "Để lấy dữ liệu sao chép tương ứng trừ đi dữ liệu trong ô đích",
+      "D": "Để lấy dữ liệu là dữ liệu sao chép tương ứng"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "25",
+    "question": "Trong MS Excel 2016, đối số kiều dò trong các hàm tham chiếu và dò tim nào dưới đây có 3 lựa chọn (-1, 0, 1)?",
+    "options": {
+      "A": "VLOOKUP()",
+      "B": "HLOOKUP()",
+      "C": "INDEX()",
+      "D": "MATCH()"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "26",
+    "question": "Trong MS Excel 2016, hàm DMIN() dùng để làm gì?",
+    "options": {
+      "A": "Trả về giá trị số lớn nhất trong một trường của danh sách thỏa điều kiện cho trước",
+      "B": "Trả về giá trị số nhỏ nhất trong một trường của danh sách thỏa điều kiện cho trước",
+      "C": "Đếm các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "D": "Đếm các giá trị khác rỗng trong một trường của danh sách thỏa điều kiện cho trước"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "27",
+    "question": "Trong MS Excel 2016, hàm COUNTIFS() dùng để làm gì?",
+    "options": {
+      "A": "Đếm các giá trị thỏa điều kiện trong vùng xác định",
+      "B": "Tính tổng các giá trị thỏa nhiều điều kiện trong vùng xác định",
+      "C": "Tính trung bình cộng các giá trị thỏa nhiều điều kiện trong vùng xác định",
+      "D": "Đếm các giá trị thỏa nhiều điều kiện chứa trong các vùng dữ liệu tương ứng"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "28",
+    "question": "Trong MS Excel 2016, để minh họa vùng số liệu dưới dạng biểu đồ trong một ô ta dùng lệnh gì?",
+    "options": {
+      "A": "Sparklines",
+      "B": "Data Bars",
+      "C": "Insert Chart",
+      "D": "Data Table"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "29",
+    "question": "Một nhà sách có bán văn phòng phẩm các loại sản phẩm như bút bi, vở, mực,... chứa trong một danh sách. Ta có thể dùng hàm gì để giúp nhà sách thống kê tổng số tiền bán được theo từng loại?",
+    "options": {
+      "A": "SUM()",
+      "B": "SUMIF()",
+      "C": "COUNT()",
+      "D": "COUNTIF()"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "30",
+    "question": "Trong MS Excel 2016, khi dùng chức năng conditional formatting để tạo quy tắc định dạng dựa vào giá trị số, ta dùng lệnh gì?",
+    "options": {
+      "A": "Format all cells based on their values",
+      "B": "Format only cells that contain",
+      "C": "Format only top or bottom ranked values",
+      "D": "Format only unique or duplicate values"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "31",
+    "question": "Trong MS Excel 2016, tùy chọn \"Sort left to right\" trong hộp thoại Sort Options có ý nghĩa gì?",
+    "options": {
+      "A": "Sắp xếp danh sách theo dòng",
+      "B": "Sắp xếp danh sách theo cột",
+      "C": "Sắp xếp danh sách tăng dần",
+      "D": "Sắp xếp danh sách giảm dần"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "32",
+    "question": "Trong MS Excel 2016, khi sử dụng hàm HLOOKUP() thì giá trị dò sẽ được dò tim ở đâu trong bảng đó?",
+    "options": {
+      "A": "Tại cột đầu tiên",
+      "B": "Tại dòng đầu tiên",
+      "C": "Tại cột bất kỳ",
+      "D": "Tại dòng bất kỳ"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "33",
+    "question": "Trong MS Excel 2016, khi sử dụng hàm VLOOKUP(), nếu không tim thấy giá trị dò thì hàm trả về kết quả là gì?",
+    "options": {
+      "A": "#N/A",
+      "B": "REF!",
+      "C": "#NAME?",
+      "D": "#VALUE!"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "34",
+    "question": "Trong MS Excel 2016, công thức =IFF(5>3, 100, 200) trả về kết quả là gì?",
+    "options": {
+      "A": "100",
+      "B": "200",
+      "C": "#NAME?",
+      "D": "#VALUE!"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "35",
+    "question": "Trong MS Excel 2016, lệnh Transpose trong công cụ Paste Special dùng để làm gì?",
+    "options": {
+      "A": "Mở rộng phạm vi sao chép",
+      "B": "Thu hẹp phạm vi sao chép",
+      "C": "Chuyển vùng sao chép dữ liệu từ cột thành dòng và ngược lại",
+      "D": "Sao chép dữ liệu không kèm định dạng"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU08",
+    "number": "36",
+    "question": "Trong MS Excel 2016, một danh sách được gọi là gì?",
+    "options": {
+      "A": "Range",
+      "B": "Database",
+      "C": "Table",
+      "D": "Record"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "37",
+    "question": "Trong MS PowerPoint 2016, để chuyển đổi tượng đang chọn xuống lớp dưới cùng, ta dùng lệnh gi?",
+    "options": {
+      "A": "Bring to Front",
+      "B": "Bring Forward",
+      "C": "Send Backward",
+      "D": "Send to Back"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "38",
+    "question": "Trong MS PowerPoint 2016, để hiệu chỉnh độ sắc nét (Sharpen) cho hình ảnh, ta dùng lệnh nào trong nhóm Adjust?",
+    "options": {
+      "A": "Corrections",
+      "B": "Color",
+      "C": "Artistic Effects",
+      "D": "Remove Background"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "39",
+    "question": "Trong MS PowerPoint 2016, để thay đổi độ trong suốt của hình vẽ, ta dùng lệnh gì?",
+    "options": {
+      "A": "Tranparency",
+      "B": "No Fill",
+      "C": "Brightness",
+      "D": "No Glow"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "40",
+    "question": "Trang MS PowerPoint 2016, khi chèn âm thanh vào bài trình chiếu, để thiết lập âm lượng của bản nhạc từ nhỏ đến lớn dần, ta dùng lệnh gì?",
+    "options": {
+      "A": "Fade In",
+      "B": "Fade out",
+      "C": "Volumn - Low",
+      "D": "Volumn - High"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "41",
+    "question": "Trong MS PowerPoint 2016, khi thiết lập hiệu ứng chuyển trang, lệnh Apply To All dùng để làm gì?",
+    "options": {
+      "A": "Áp dụng hiệu ứng transition cho tất cả các trang chiếu",
+      "B": "Áp dụng hiệu ứng transition cho các trang chiếu đang chọn",
+      "C": "Áp dụng hiệu ứng animation cho tất cả các trang chiếu",
+      "D": "Áp dụng hiệu ứng animation cho các trang chiếu đã chọn"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "42",
+    "question": "Trong MS PowerPoint 2016, lệnh Align - Align Bottom dùng để làm gì?",
+    "options": {
+      "A": "Canh các đối tượng đang chọn thẳng hàng theo biên trên",
+      "B": "Canh các đối tượng đang chọn thẳng hàng theo biên dưới",
+      "C": "Canh các đối tượng đang chọn thẳng hàng theo biên trái",
+      "D": "Canh các đối tượng đang chọn thẳng hàng theo biên phải"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "43",
+    "question": "Trong MS PowerPoint 2016, để xem thời gian trình chiếu được thiết lập bằng chức năng Rehearse Timings, ta chọn chế độ hiển thị nào?",
+    "options": {
+      "A": "Normal",
+      "B": "Notes Page",
+      "C": "Reading View",
+      "D": "Slide Sorter"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "44",
+    "question": "Trong MS PowerPoint 2016, khi chèn hiệu ứng hoạt hình cho đối tượng, lệnh Start - After Previous dùng để làm gì?",
+    "options": {
+      "A": "Thi hành hiệu ứng đang chọn sau khi hiệu ứng liền trước đó xảy ra",
+      "B": "Thi hành hiệu ứng đang chọn cùng lúc với hiệu ứng liền trước đó",
+      "C": "Thi hành hiệu ứng đang chọn khi nhấp chuột",
+      "D": "Thi hành hiệu ứng đang chọn cùng lúc với tất cả hiệu ứng liền sau"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "45",
+    "question": "Trong MS PowerPoint 2016, để sử dụng con trỏ Laser khi trình chiếu, ta giữ chuột trái kết hợp với phím nào dưới đây?",
+    "options": {
+      "A": "Shift",
+      "B": "Ctrl",
+      "C": "Alt",
+      "D": "Space bar"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "46",
+    "question": "Trong MS PowerPoint 2016, khi chèn hiệu ứng chuyển trang cho trang chiếu, để thay kiểu xuất hiện của hiệu ứng, ta dùng lệnh gì?",
+    "options": {
+      "A": "On Mouse Click",
+      "B": "After",
+      "C": "Duration",
+      "D": "Effect Options"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "47",
+    "question": "Trong MS PowerPoint 2016, hiệu ứng hoạt hình Entrance dùng để làm gì?",
+    "options": {
+      "A": "Làm đối tượng xuất hiện trên trang chiếu",
+      "B": "Làm đối tượng được nhấn mạnh trên trang chiếu",
+      "C": "Làm đối tượng biến mất khỏi trang chiếu",
+      "D": "Làm đối tượng chuyển động theo đường dẫn xác định"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "48",
+    "question": "Trong MS PowerPoint 2016, để chuyển đối tượng đang chọn lên lớp trên cùng, ta dùng lệnh gì?",
+    "options": {
+      "A": "Bring to Front",
+      "B": "Bring Forward",
+      "C": "Send Backward",
+      "D": "Send to Back"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "49",
+    "question": "Trong MS PowerPoint 2016, khi chèn hiệu ứng hoạt hình cho đối tượng, để hiệu ứng hoạt hình sau xuất hiện cùng lúc với hiệu ứng hoạt hình kế trước đó, ta dùng lệnh gì?",
+    "options": {
+      "A": "On click",
+      "B": "With Previous",
+      "C": "After Previous",
+      "D": "Duration: 0.00 sec"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 03",
+    "lesson": "Mô đun IU09",
+    "number": "50",
+    "question": "Trong MS PowerPoint 2016, khi kết nối máy tính xách tay có độ phân giải lớn hơn máy chiếu, chế độ kết nối \"Extend\" thì màn hình của máy tính xách tay sẽ hiển thị như thế nào?",
+    "options": {
+      "A": "Hiển thị với độ phân giải trước khi kết nối",
+      "B": "Hiển thị khác với độ phân giải trước khi kết nối",
+      "C": "Hiển thị khác độ phân giải của máy chiếu",
+      "D": "Hiển thị cùng độ phân giải của máy chiếu"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "1",
+    "question": "Trong MS Word 2016, để kết quả tìm kiếm là nguyên một từ đơn, ta chọn mục nào trong hộp thoại \"Find and Replace\"?",
+    "options": {
+      "A": "Match case",
+      "B": "Find whole words only",
+      "C": "Use wildcards",
+      "D": "Special"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "2",
+    "question": "Trong MS Word 2016, để chuyển đổi văn bản thành bảng, ta dùng lệnh nào?",
+    "options": {
+      "A": "Convert Text to Table...",
+      "B": "Insert Table",
+      "C": "Convert to Text",
+      "D": "Convert to Shape"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "3",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết rà soát (track changes), để hủy bỏ tất cả các thay đổi trong văn bản, ta dùng lệnh gì?",
+    "options": {
+      "A": "Reject and Move to Next",
+      "B": "Reject Chance",
+      "C": "Reject All Changes Shown",
+      "D": "Reject All Changes in Document"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "4",
+    "question": "Trong MS Word 2016, để đánh dấu các vùng muốn xóa khi thực hiện xóa nền của hình ảnh, ta dùng lệnh nào?",
+    "options": {
+      "A": "Mark Areas to Remove",
+      "B": "Mark Areas to Keep",
+      "C": "Delete Mark",
+      "D": "Set Transparent Color"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "5",
+    "question": "Trong MS Word 2016, loại tập tin nào dưới đây có thể làm nguồn dữ liệu chứa danh sách khi tạo mail merge?",
+    "options": {
+      "A": "JPG",
+      "B": "DOCX",
+      "C": "PDF",
+      "D": "EXE"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "6",
+    "question": "Trong MS Word 2016, loại tập tin nào dưới đây không thể làm nguồn dữ liệu chứa danh sách khi tạo mail merge?",
+    "options": {
+      "A": "XLSX",
+      "B": "WMF",
+      "C": "DOCX",
+      "D": "ACCDB"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "7",
+    "question": "Trong MS Word 2016, định dạng Wrap Text mặc định của hình ảnh khi chèn vào văn bản là gì?",
+    "options": {
+      "A": "Behind Text",
+      "B": "In Front of Text",
+      "C": "Square",
+      "D": "In Line with Text"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "8",
+    "question": "Trong MS Word 2016, lệnh \"Next Page\" trong nhóm Section Breaks dùng để làm gì?",
+    "options": {
+      "A": "Văn bản sau dấu ngắt sẽ sang trang kế tiếp",
+      "B": "Văn bản sau dấu ngắt sẽ bắt đầu section mới tại trang chẵn kế tiếp",
+      "C": "Văn bản sau dấu ngắt sẽ bắt đầu section mới tại trang lẻ kể tiếp",
+      "D": "Văn bản sau dấu ngắt sẽ bắt đầu section mới ở trang kế tiếp"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "9",
+    "question": "Trong MS Word 2016, để chèn dấu ngắt cột trong văn bản có chia cột, ta dùng phím tắt nào?",
+    "options": {
+      "A": "Alt Enter",
+      "B": "Ctrl + Enter",
+      "C": "Ctrl+Alt+ Enter",
+      "D": "Ctrl + Shift + Enter"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "10",
+    "question": "Trong MS Word 2016, trong mục \"Allow only this type of editing in the document tùy chọn \"Filling in forms\" dùng để làm gì?",
+    "options": {
+      "A": "Không cho chỉnh sửa văn bản",
+      "B": "Cho phép thực hiện lần vết và theo dõi",
+      "C": "Cho phép thực hiện các nhận xét, bình luận",
+      "D": "Cho phép điền thông tin vào form"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "11",
+    "question": "Trong MS Word 2016, mã lệnh field { TITLE \\* Upper} dùng để làm gì?",
+    "options": {
+      "A": "Chèn tựa đề của văn bản với định dạng chữ in hoa",
+      "B": "Chèn tựa đề của văn bàn với định dạng chữ thường",
+      "C": "Chèn tiêu đề đầu trang của văn bản với định dạng chữ in hoa",
+      "D": "Chèn tiêu đề đầu trang của văn bản với định dạng chữ thường"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "12",
+    "question": "Trong MS Word 2016, để chèn số trang vào văn bản, ta có thể dùng kỹ thuật nào dưới đây?",
+    "options": {
+      "A": "Field",
+      "B": "Bookmark",
+      "C": "Hyperlink",
+      "D": "Cross-reference"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "13",
+    "question": "Trong MS Word 2016, đối với tài liệu bị giới hạn định dạng và chỉnh sửa nội dung (Restrict Formatting and Editing), để xác định một vùng mà mọi người có thể chỉnh sửa, ta cần khai báo thêm trong mục nào?",
+    "options": {
+      "A": "Formatting restrictions",
+      "B": "Editing restrictions",
+      "C": "Exceptions",
+      "D": "Start enforcement"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "14",
+    "question": "Trong MS Word 2016, để kiểm tra ngữ pháp bằng công cụ kiểm lỗi chính tả, ta dùng chức năng nào?",
+    "options": {
+      "A": "Check spelling as you type",
+      "B": "Mark grammar errors as you type",
+      "C": "Check grammar with spelling",
+      "D": "Hide spelling errors in this document only"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "15",
+    "question": "Trong MS Word 2016, để kiểm tra sự khác biệt giữa hai tài liệu document1.docx và document2.docx, ta dùng lệnh gì?",
+    "options": {
+      "A": "Compare",
+      "B": "Split",
+      "C": "Two Pages",
+      "D": "View Side by Side"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "16",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết rà soát (track changes), để hiển thị các thay đổi văn bản của riêng một user, ta dùng lệnh gì?",
+    "options": {
+      "A": "Reviewers",
+      "B": "Comment",
+      "C": "Markup Area Highlight",
+      "D": "Insertions and Deletions"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "17",
+    "question": "Trong MS Word 2016, mặc định có bao nhiều style heading khi tạo văn bản mới?",
+    "options": {
+      "A": "Z",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU07",
+    "number": "18",
+    "question": "Trong MS Word 2016, để thiết lập khoảng cách dòng tùy ý theo tỷ lệ so với dòng đơn được chỉ định, ta dùng lệnh nào?",
+    "options": {
+      "A": "At least",
+      "B": "Multiple",
+      "C": "Exactly",
+      "D": "Singl"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "19",
+    "question": "Trong MS Excel 2016, khi sử dụng chức năng Advanced Filter, công thức nào dưới đây dùng lọc ra các dòng dữ liệu thỏa điều kiên nhân viên sinh trước tháng 4 năm 1975? Giả sử ô D1 chứa tiêu đề cột là Ngày Sinh.",
+    "options": {
+      "A": "=AND(MONTH(D2)<4, YEAR(D2)<1975)",
+      "B": "=D2 < DATE(1975, 4, 1)",
+      "C": "=OR(MONTH(D2)<4, YEAR(D2)<1975)",
+      "D": "=D2 < DATE (1, 4, 1975)"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "20",
+    "question": "Trong MS Excel 2016, kiểu \"Newest to Oldest\" dùng để sắp xếp danh sách như thế nào?",
+    "options": {
+      "A": "Tăng dần theo cột dữ liệu dạng ngày tháng",
+      "B": "Giảm dần theo cột dữ liệu dạng ngày tháng",
+      "C": "Tăng dần theo cột dữ liệu dạng số",
+      "D": "Giảm dần theo cột dữ liệu dạng số"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "21",
+    "question": "Trong MS Excel 2016, khi sử dụng chức năng Advanced Filter, công thức nào dưới đây dùng để lọc ra các dòng dữ liệu thỏa điều kiện nhân viên sinh ngày 29 tháng 2? Giả sử ô D1 chứa tiêu để cột là ngày",
+    "options": {
+      "A": "=AND(DAY(D2)=29, MONTH(D2)=2)",
+      "B": "=DAY(D2)=29 AND MONTH(D2)=2",
+      "C": "=OR(DAY(D2)=29, MONTH(D2)=2)",
+      "D": "=DAY(D2)=29 OR MONTH(D2)=2"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "22",
+    "question": "Trong MS Excel 2016, chức năng nào bổ sung để hỗ trợ gom nhóm số liệu trên bảng thống kê PivotTable có nhiều dòng?",
+    "options": {
+      "A": "Group Selection",
+      "B": "Auto Outline",
+      "C": "Auto Filter",
+      "D": "Slicer"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "23",
+    "question": "Trong MS Excel 2016, để xóa bỏ các quy tắc nhập liệu, ta dùng lệnh gì trong thẻ Data (nhóm Data Tools)?",
+    "options": {
+      "A": "Data Validation... - Clear All",
+      "B": "Circle Invalid Data",
+      "C": "Remove Duplicates",
+      "D": "Clear Validation Circles"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "24",
+    "question": "Trong MS Excel 2016, tùy chọn “Sort top to bottom\" trong hộp thoại Sort Options có ý nghĩa gì?",
+    "options": {
+      "A": "Sắp xếp danh sách theo dòng",
+      "B": "Sắp xếp danh sách theo cột",
+      "C": "Sắp xếp danh sách tăng dần",
+      "D": "Sắp xếp danh sách giảm dần"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "25",
+    "question": "Trong MS Excel 2016, để lấy một giá trị tại cột thứ hai dòng thứ ba trong khối ô A2:C10, công thức nào đưới đây là đúng?",
+    "options": {
+      "A": "=MATCH(A2:C10, 2, 3)",
+      "B": "=INDEX(A2:C10, 2, 3)",
+      "C": "=CHOOSE(A2:C10, 2, 3)",
+      "D": "=INDEX(A2:C10, 3, 2)"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "26",
+    "question": "Trong MS Excel 2016, chức năng thống kê nào có dữ liệu chi tiết hiển thị cùng với số liệu thống kê trong danh sách?",
+    "options": {
+      "A": "PivotTable",
+      "B": "Consolidate",
+      "C": "Subtotal",
+      "D": "GoalSeek"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "27",
+    "question": "Trong MS Excel 2016, khi sử dụng hàm HLOOKUP() để dò tìm gần đúng (Approximate match) thì dòng đầu tiên của bảng dò sẽ được tổ chức như thế nào?",
+    "options": {
+      "A": "Sắp xếp dữ liệu tăng dần",
+      "B": "Sắp xếp dữ liệu giảm dần",
+      "C": "Chỉ sắp xếp khi dữ liệu là giá trị chuỗi",
+      "D": "Chỉ sắp xếp khi dữ liệu là giá trị số"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "28",
+    "question": "Trong MS Excel 2016, việc thiết lập mật khẩu để mở bảng tính thường có ý nghĩa gì?",
+    "options": {
+      "A": "Chia sẻ dữ liệu nhưng không cho phép người khác xóa sửa dữ liệu",
+      "B": "Chia sẻ dữ liệu nhưng cho phép người khác xóa sửa dữ liệu",
+      "C": "Không muốn người khác mở bảng tính khi chưa được phép",
+      "D": "Chia sẻ dữ liệu trên mạng Internet"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "29",
+    "question": "Trong MS Excel 2016, để định dạng dữ liệu có điều kiện kiểu tô màu theo tỷ lệ tương quan giữa các giá trị, ta dùng lệnh gì trong Conditional Formatting?",
+    "options": {
+      "A": "Data Bars",
+      "B": "Color Scales",
+      "C": "Icon Sets",
+      "D": "Highlight Cells Rules"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "30",
+    "question": "Trong MS Excel 2016, công thức =SUM(10, \"a\", 3) trả về kết quả là gì?",
+    "options": {
+      "A": "13",
+      "B": "7",
+      "C": "#NAME?",
+      "D": "#VALUE!"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "31",
+    "question": "Trong MS Excel 2016, khi sử dụng chức năng Advanced Filter, công thức nào dưới đây dùng để lọc ra các dòng dữ liêu thỏa điều kiện nhân viên có tháng sinh là tháng chẵn? Giả sử ô D1 chứa tiêu đề cột là ngày sinh.",
+    "options": {
+      "A": "=MOD(MONTH(D2), 2 ) = 0",
+      "B": "=INT(MONTH(D2)/2) = 0",
+      "C": "=MOD(MONTH(D2), 2 ) <> 0",
+      "D": "=INT(MONTH(D2)/2) <> 0"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "32",
+    "question": "Trong MS Excel 2016, một khối ô được gọi là gì?",
+    "options": {
+      "A": "Range",
+      "B": "Database",
+      "C": "Table",
+      "D": "Record"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "33",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc tại ô A1 chỉ được phép nhập các giá trị số từ 0 đến 10, công thức nào dưới đây là đúng?",
+    "options": {
+      "A": "=AND(A1>= 0, A1<=10)",
+      "B": "=OR(A1>=0,A1<=10)"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "34",
+    "question": "Trong MS Excel 2016, để dò tìm ký tự “A” trong khối ô A1:A10 với kiểu dò chính xác, công thức nào dưới đây là đúng?",
+    "options": {
+      "A": "=MATCH(A1:A10, \"A\", 0)",
+      "B": "=MATCH(A1:A10, \"A\", 1)",
+      "C": "=MATCH(\"A\",A1:A10, 0)",
+      "D": "=MATCH(\"A\",A1:A10, 1)"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "35",
+    "question": "Trong MS Excel 2016, khi thực hiện sao chép với chức năng Paste Special, lệnh Operation - Add dùng để làm gì?",
+    "options": {
+      "A": "Để lấy dữ liệu trong ô đích cộng với dữ liệu sao chép tương ứng",
+      "B": "Để lấy dữ liệu trong ô đích trừ đi dữ liệu sao chép tương ứng",
+      "C": "Để lấy dữ liệu sao chép tương ứng trừ đi dữ liệu trong ô đích",
+      "D": "Để lấy dữ liệu là dữ liệu sao chép tương ứng"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU08",
+    "number": "36",
+    "question": "Trong MS Excel 2016, công thức =10/“abc” trả về kết quả là gì?",
+    "options": {
+      "A": "#DIV/0!",
+      "B": "#NAME?",
+      "C": "#N/A",
+      "D": "#VALUE!"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "37",
+    "question": "Trong MS PowerPoint 2016, hiệu ứng hoạt hình Exit dùng để làm gì?",
+    "options": {
+      "A": "Làm đối tượng xuất hiện trên trang chiều",
+      "B": "Làm đối tượng được nhấn mạnh trên trang chiếu",
+      "C": "Làm đối tượng biến mất khỏi trang chiếu",
+      "D": "Làm đối tượng chuyển động theo đường dẫn xác định"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "38",
+    "question": "Trong MS PowerPoint 2016, để canh đều khoảng cách giữa các hình vẽ theo chiều dọc, ta dùng lệnh gì trong thẻ Format - Align?",
+    "options": {
+      "A": "Align Center",
+      "B": "Align Middle",
+      "C": "Distribute Horizontally",
+      "D": "Distribute Vertically"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "39",
+    "question": "Trong MS PowerPoint 2016, khi kết nối máy tính xách tay với máy chiếu, chế độ kết nối “Projector only” dùng để làm gì?",
+    "options": {
+      "A": "Chỉ hiển thị nội dung trên màn hình máy tính xách tay",
+      "B": "Hiển thị nội dung trên màn hình máy tính và máy chiếu như nhau",
+      "C": "Hiển thị nội dung khác nhau trên màn hình máy tính và máy chiếu",
+      "D": "Chỉ hiển thị nội dung trên máy chiếu"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "40",
+    "question": "Trong MS PowerPoint 2016, lệnh Text Fill dùng để làm gì?",
+    "options": {
+      "A": "Tô màu nền hình vẽ",
+      "B": "Tô màu chữ",
+      "C": "Tô màu đường viền hình vẽ",
+      "D": "Tô màu đường viền chữ"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "41",
+    "question": "Trong MS PowerPoint 2016, để xóa một section, ta dùng lệnh gì?",
+    "options": {
+      "A": "Remove Section",
+      "B": "Remove Section & Slides",
+      "C": "Remove All Sections",
+      "D": "Rename Section"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "42",
+    "question": "Trong MS PowerPoint 2016, để loại bỏ nền cho hình ảnh (Picture) đang chọn ta dùng lệnh gì?",
+    "options": {
+      "A": "Remove Background",
+      "B": "Clear Formatting",
+      "C": "Crop",
+      "D": "No Fill"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "43",
+    "question": "Trong MS PowerPoint 2016, khi chèn âm thanh vào bài trình chiếu, lệnh Fade Out dùng để làm gi?",
+    "options": {
+      "A": "Thiết lập âm lượng của bản nhạc từ nhỏ đến lớn dần",
+      "B": "Thiết lập âm lượng của bản nhạc từ lớn đến nhỏ dần",
+      "C": "Thiết lập âm lượng của bản nhạc lớn",
+      "D": "Thiết lập âm lượng của bản nhạc nhỏ"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "44",
+    "question": "Trong MS PowerPoint 2016, khi tạo siêu liên kết đến trang web http://thsp.edu.vn, mục \"Text to display” dùng để làm gì?",
+    "options": {
+      "A": "Khai báo văn bản hiển thị của siêu liên kết",
+      "B": "Khai báo văn bản hiển thị của đánh dấu",
+      "C": "Khai báo địa chỉ trang web liên kết",
+      "D": "Khai báo vị trí đánh dấu"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "45",
+    "question": "Trong MS PowerPoint 2016, khi kết nối máy tính xách tay với máy chiếu, ta chọn chế độ kết nối nào để chỉ hiển thị nội dung trên màn hình máy tính?",
+    "options": {
+      "A": "Computer only",
+      "B": "Duplicate",
+      "C": "Extend",
+      "D": "Projector only"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "46",
+    "question": "Trong MS PowerPoint 2016, khi kết nối máy tính xách tay có độ phân giải lớn hơn máy chiếu, chế độ kết nối \"Duplicate\" thì màn hình của máy tính xách tay sẽ hiển thị như thế nào?",
+    "options": {
+      "A": "Hiển thị với độ phân giải cao nhất",
+      "B": "Hiển thị với độ phân giải thấp nhất",
+      "C": "Hiển thị cùng độ phân giải của máy chiếu",
+      "D": "Hiển thị khác độ phân giải của máy chiếu"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "47",
+    "question": "Trong MS PowerPoint 2016, để chèn một đoạn phim có sẵn trên máy tính vào trang chiếu hiện hành, ta dùng lệnh gì trong thẻ Insert?",
+    "options": {
+      "A": "Audio - Audio From File",
+      "B": "Audio - Record Audio",
+      "C": "Video - Video From File",
+      "D": "Equation"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "48",
+    "question": "Trong MS PowerPoint 2016, mẫu định dạng (theme) thường dùng để làm gì?",
+    "options": {
+      "A": "Để định dạng nhanh chóng bài trình chiếu theo mẫu có sẵn",
+      "B": "Định dạng nhanh chóng bài trình chiếu theo Notes Master có sẵn",
+      "C": "Tạo bài trình chiếu mới dựa trên bài trình chiếu mẫu",
+      "D": "Tạo bài trình chiếu mới dựa trên bài trình chiếu có sẵn"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "49",
+    "question": "Trong MS PowerPoint 2016, để thay đổi độ bão hòa màu cho hình ảnh, ta dùng lệnh nào?",
+    "options": {
+      "A": "Color Saturation",
+      "B": "Color Tone",
+      "C": "Recolor",
+      "D": "Set Transparent Color"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 04",
+    "lesson": "Mô đun IU09",
+    "number": "50",
+    "question": "Trong MS PowerPoint 2016, để hiển thị các nhận xét hay bình luận, ta dùng lệnh gì?",
+    "options": {
+      "A": "New Comment",
+      "B": "Edit Comment",
+      "C": "Show Markup",
+      "D": "Add Notes"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "1",
+    "question": "Trong MS Word 2016, để định dạng phân biệt dòng lẻ và dòng chẵn đối với bảng có áp dụng định dạng Table style, ta dùng lệnh gì?",
+    "options": {
+      "A": "Banded Rows",
+      "B": "Total Row",
+      "C": "Header Row",
+      "D": "Banded Columns"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "2",
+    "question": "Trong MS Word 2016, đề chèn trang bìa vào văn bản, ta dùng lệnh gì trong thẻ Insert?",
+    "options": {
+      "A": "Page Border",
+      "B": "Cover Page",
+      "C": "Page Break",
+      "D": "Blank Page"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "3",
+    "question": "Trong MS Word 2016, để chuyển đổi chế độ hiển thị giữa field value và field code của tất cả các field có trong văn bản, ta dùng phím gì?",
+    "options": {
+      "A": "F9",
+      "B": "Shift+F9",
+      "C": "Alt + F9",
+      "D": "Ctrl + F9"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "4",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết rà soát (track changes), lệnh “Original Markup” dùng để làm gì?",
+    "options": {
+      "A": "Chỉ hiển thị văn bản cuối cùng",
+      "B": "Hiển thị văn bản cuối cùng có kèm các ký hiệu đánh dấu nội dung đã được sửa đổi",
+      "C": "Chỉ hiển thị văn bản ban đầu",
+      "D": "Hiển thị văn bản ban đầu có kèm các ký hiệu đánh dấu nội dung đã được sửa đổi"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "5",
+    "question": "Trong MS Word 2016, mục “Use wildcards” trong hộp thoại “Find and Replace” dùng để làm gì?",
+    "options": {
+      "A": "Cho phép khai báo thêm các định dạng cần tim",
+      "B": "Cho phép sử dụng ký tự đại diện trong từ khóa tìm kiếm",
+      "C": "Cho phép sử dụng ký tự đặc biệt trong từ khóa tìm kiếm",
+      "D": "Cho phép tim kiếm có phân biệt chữ in hoa và chữ thường"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "6",
+    "question": "Trong MS Word 2016, để lấy nguồn dữ liệu từ một tập tin khi thực hiện trộn thư, ta dùng lệnh gì?",
+    "options": {
+      "A": "Select Recipients – Use an Existing List",
+      "B": "Select Recipients – Type New List",
+      "C": "Start Mail Merge – Letters",
+      "D": "Start Mail Merge – Labels"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "7",
+    "question": "Trong MS Word 2016, lệnh định dạng “Page break before” có tác dụng gì đối với đoạn văn đang chọn?",
+    "options": {
+      "A": "Chèn dấu ngắt cột trước đoạn đang chọn",
+      "B": "Chèn dấu ngắt Section trước đoạn đang chọn",
+      "C": "Chèn dấu ngắt Section Continuous trước đoạn đang chọn",
+      "D": "Chèn dấu ngắt trang trước đoạn đang chọn"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "8",
+    "question": "Trong MS Word 2016, để chèn nội dung tập tin có định dạng là TXT vào văn bản, ta dùng lệnh gì?",
+    "options": {
+      "A": "Thẻ File – Open",
+      "B": "Thẻ Insert – Quick Parts",
+      "C": "Thẻ Insert – Text Box",
+      "D": "Thẻ Insert – Object – Text from File..."
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "9",
+    "question": "Trong MS Word 2016, khi thiết kế một biểu mẫu mà phần nội dung có các tùy chọn ngoại ngữ (gồm 4 thứ tiếng như Anh, Pháp, Nhật, Đức) và người dùng có thể chọn đồng thời nhiều giá trị cùng lúc, ta dùng đối tượng điều khiển nào dưới đây?",
+    "options": {
+      "A": "Rich Text Content Control",
+      "B": "Check Box Content Control",
+      "C": "Combo Box Content Control",
+      "D": "Plain Text Content Control"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "10",
+    "question": "Trong MS Word 2016, để thiết lập khoảng cách giữa các đoạn, ta chọn mục nào trong hộp thoại Paragraph?",
+    "options": {
+      "A": "After",
+      "B": "Multiple",
+      "C": "Double",
+      "D": "Single"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "11",
+    "question": "Trong MS Word 2016, chức năng “Typing replaces selected text” có ý nghĩa gì?",
+    "options": {
+      "A": "Thay thế khối văn bản đang chọn bằng ký tự nhập vào",
+      "B": "Thay thế toàn bộ văn bản bằng ký tự nhập vào",
+      "C": "Chèn ký tự nhập vào ở phía trước khối văn bản đang chọn",
+      "D": "Chèn ký tự nhập vào ở phí sau khối văn bản đang chọn"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "12",
+    "question": "Để trộn hai ô kề nhau trong bảng thành một ô, ta dùng lệnh gì?",
+    "options": {
+      "A": "Split Cells",
+      "B": "Merge Cells",
+      "C": "Shift Cells right",
+      "D": "Shift Cells down"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "13",
+    "question": "Trong MS Word 2016, để thay đổi khoảng cách dòng trong đoạn, ta dùng lệnh nào?",
+    "options": {
+      "A": "Spacing Before",
+      "B": "Line spacing",
+      "C": "Spacing After",
+      "D": "Chacracter spacing"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "14",
+    "question": "Trong MS Word 2016, mẫu định dạng (theme) dùng để làm gì?",
+    "options": {
+      "A": "Tạo bộ văn bản có sẵn nội dung và các kiểu định dạng dựa trên một văn bản mẫu",
+      "B": "Tạo bộ mẫu các kiểu định dạng để thuận tiện cho người dùng",
+      "C": "Cung cấp bộ mẫu các kiểu định dạng theo chủ đề cho văn bản",
+      "D": "Cung cấp bộ văn bản trắng nhưng không có sẵn các kiểu định dạng"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "15",
+    "question": "Trong MS Word 2016, khi áp dụng lệnh “Flip Horizontal” cho hình ảnh thì hình kết quả như thế nào?",
+    "options": {
+      "A": "Hình sẽ xoay trái 180 độ",
+      "B": "Hình sẽ xoay phải 180 độ",
+      "C": "Hình sẽ đối xứng theo trục ngang",
+      "D": "Hình sẽ đối xứng theo trục dọc"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "16",
+    "question": "Trong MS Word 2016, sau khi gõ ký tự đại diện, để chèn văn bản được khai báo bằng chức năng Auto Text, ta dùng phím gì?",
+    "options": {
+      "A": "F3",
+      "B": "Shift + F3",
+      "C": "Ctrl + F3",
+      "D": "Alt + F3"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "17",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết ra soát (track changes), lệnh “Accept All Changes in Document” dùng để làm gì?",
+    "options": {
+      "A": "Chấp nhận và chuyển đến thay đổi tiếp theo",
+      "B": "Chấp nhận sự thay đổi tại vị trí con trỏ",
+      "C": "Chấp nhận tất cả các thay đổi đang hiển thị",
+      "D": "Chấp nhận tất cả các thay đổi trong văn bản"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU07",
+    "number": "18",
+    "question": "Trong MS Word 2016, để thiết lập môi trường làm việc theo nhu cầu, ta dùng lệnh gì trong thẻ File?",
+    "options": {
+      "A": "Options",
+      "B": "Open",
+      "C": "Save",
+      "D": "Save As"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "19",
+    "question": "Trong MS Execl 2016, có thể đặt trùng tên hai khối ô không?",
+    "options": {
+      "A": "Được, với điều kiện hai khối ô nằm ở các trang tính khác nhau",
+      "B": "Được, với điều kiện phạm vi (scope) sử dụng tên khối ô khác nhau",
+      "C": "Được, với điều kiện hai khối ô ở cùng trang tính",
+      "D": "Không được"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "20",
+    "question": "Trong MS Excel 2016, công thức =SUM(10, a, 3) trả về kết quả là gì?",
+    "options": {
+      "A": "13",
+      "B": "7",
+      "C": "#NAME?",
+      "D": "#VALUE!"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "21",
+    "question": "Trong MS Excel 2016, khi thiết lập quy tắc nhập liệu để xác định kiểu cảnh báo lỗi không cho phép người dùng nhập liệu sai quy tắc, ta chọn kiểu nào?",
+    "options": {
+      "A": "Stop",
+      "B": "Wanning",
+      "C": "Information",
+      "D": "Không dùng kiểu nào"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "22",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc nhập liệu cho khối ô từ A3:A10 có giá trị nhập quy định độ dài chuỗi nhập từ 3 đến 5, ta khai báo công thức nào trong Custom – Formula?",
+    "options": {
+      "A": "=AND(LEN(A3)=3, LEN(A3)=5)",
+      "B": "=OR(LEN(A3)=3, LEN(A3)=5)",
+      "C": "=AND(LEN(A3)>=3, LEN(A3)<=5)",
+      "D": "=OR(LEN(A3)>=3, LEN(A3)<=5)"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "23",
+    "question": "Trong MS Excel 2016, hàm AVERAGEIFS() dùng để làm gì?",
+    "options": {
+      "A": "Đếm các giá trị thỏa điều kiện trong vùng xác định",
+      "B": "Tính tổng các giá trị thỏa nhiều điều kiện trong vùng xác định",
+      "C": "Tính trung bình cộng các giá trị thỏa nhiều điều kiện trong các vùng dữ liệu tương ứng",
+      "D": "Đếm các giá trị thỏa nhiều điều kiện chứa trong các vùng dữ liệu tương ứng"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "24",
+    "question": "Trong MS Excel 2016, trong công thức có chứa phép chia cho ô rỗng trả về kết quả là gì?",
+    "options": {
+      "A": "#DIV/0!",
+      "B": "#NAME?",
+      "C": "#N/A",
+      "D": "#VALUE!"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "25",
+    "question": "Trong MS Excel 2016, để sắp xếp danh sách giảm dần theo cột dữ liệu dạng số, tại hộp thoại Sort ta chọn lệnh nào?",
+    "options": {
+      "A": "Smallest to Largest",
+      "B": "Largest to Smallest",
+      "C": "A to Z",
+      "D": "Z to A"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "26",
+    "question": "Trong MS Excel 2016, khi sử dụng hàm VLOOKUP() để dò tim gần đúng (Approximate match) thì cột đầu tiên của bảng dò sẽ được tổ chức như thế nào?",
+    "options": {
+      "A": "Sắp xếp dữ liệu tăng dần",
+      "B": "Sắp xếp dữ liệu giảm dần",
+      "C": "Chỉ sắp xếp khi dữ liệu là giá trị chuỗi",
+      "D": "Chỉ sắp xếp khi dữ liệu là giá trị số"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "27",
+    "question": "Trong MS Excel 2016, giả sử có một danh sách gồm các cột: MaNV, HoTen, Phai, Luong, MaPB. Tạo bảng PivotTable để đếm số nhân viên dựa vào cột HoTen ta dùng hàm thống kê nào?",
+    "options": {
+      "A": "Count",
+      "B": "CountA",
+      "C": "CountBlank",
+      "D": "Countif"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "28",
+    "question": "Trong MS Excel 2016, để sắp xếp danh sách theo thứ tự quy định, ta chọn mục nào trong hộp thoại Sort – Order?",
+    "options": {
+      "A": "Largest to Smallest",
+      "B": "Smallest to Largest",
+      "C": "Custom List...",
+      "D": "Newest to Oldest"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "29",
+    "question": "Trong MS Excel 2016, khi sử dụng hàm MATCH() để dò tìm giá trị nhỏ nhất trong dãy dò mà giá trị đó lớn hơn hoặc bằng giá trị dò tim thì dữ liệu trong dãy dò sẽ được tổ chức như thế nào?",
+    "options": {
+      "A": "Sắp xếp dữ liệu tăng dần",
+      "B": "Sắp xếp dữ liệu giảm dần",
+      "C": "Chỉ sắp xếp khi dữ liệu là giá trị chuỗi",
+      "D": "Chỉ sắp xếp khi dữ liệu là giá trị số"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "30",
+    "question": "Trong MS Excel 2016, khi sử sụng chức năng Advenced Filter, công thức nào dưới đây dùng để lọc ra các dòng dữ liệu thỏa điều kiện nhân viên có họ “Phan”? Giả sử ô D1 chứa tiêu đề cột là Họ.",
+    "options": {
+      "A": "=D2= \"Phan\"",
+      "B": "=RIGHT(D2, 4) = “Phan”",
+      "C": "=LEFT(D2, 4) = “Phan”",
+      "D": "=MID(D2, LEN(D2), 4)"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "31",
+    "question": "Trong MS Excel 2016, ta có một danh sách nhân viên gồm các cột MaNV, Ho tên Giới tính (Nam, Nữ). Ngày sinh, Lương. Ta có thể sử dụng hàm nào dưới đây để tính lương trung bình của các nhân viên nam?",
+    "options": {
+      "A": "AVERAGE()",
+      "B": "SUMIF()",
+      "C": "AVERAGEIF()",
+      "D": "COUNTIF()"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "32",
+    "question": "Trong MS Excel 2016, để tổng hợp dữ liệu từ nhiều nguồn dữ liệu khác nhau, ta dùng chức năng gì?",
+    "options": {
+      "A": "PivotTable",
+      "B": "Consolidate",
+      "C": "Subtotal",
+      "D": "Data Table"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "33",
+    "question": "Trong MS Excel 2016, trong các công thức sau đây công thức nào là đúng cú pháp?",
+    "options": {
+      "A": "=COUNTIF(\"Cam\", A2:A5)",
+      "B": "=COUNTIF(A2:A5, \"Cam\")",
+      "C": "=COUNTIF(\"Cam\", A2:A5, B2:B5)",
+      "D": "=COUNTIF(A2:A5, \"Cam\", B2:B5)"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "34",
+    "question": "Trong MS Excel 2016, để định dạng dữ liệu có điều kiện kiểu thanh ngang, ta dùng lệnh gì trong Conditional Formatting?",
+    "options": {
+      "A": "Data Bars",
+      "B": "Color Scales",
+      "C": "Icon Sets",
+      "D": "Highlight Cells Rules"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "35",
+    "question": "Trong MS Excel 2016, công thức =VLOOKUP(\"TP\", B3:C5, 10, 0) trả về kết quả là gì?",
+    "options": {
+      "A": "#N/A",
+      "B": "REF!",
+      "C": "#NAME?",
+      "D": "#VALUE!"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU08",
+    "number": "36",
+    "question": "Trong MS Excel 2016, khi sử dụng chức năng Advanced Filter, tùy chọn \"Copy to another location\" dùng để làm gì?",
+    "options": {
+      "A": "Danh sách kết quả hiển thị tại một trang tỉnh khác",
+      "B": "Hiển thị kết quả lọc ngay tại danh sách",
+      "C": "Kết quả lọc không chứa các dòng trùng nhau",
+      "D": "Trích danh sách kết quả lọc đến một vị trí khác"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "37",
+    "question": "Trong MS PowerPoint 2016, khi xử lý các đối tượng hình vẽ, lệnh Send Backward dùng để làm gì?",
+    "options": {
+      "A": "Chuyển đối tượng đang chọn xuống dưới một lớp",
+      "B": "Chuyển đổi tượng đang chọn xuống lớp dưới cùng",
+      "C": "Chuyển đổi tượng đang chọn lên trên một lớp",
+      "D": "Chuyển đổi tượng đang chọn lên lớp trên cùng"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "38",
+    "question": "Trong MS PowerPoint 2016, để tạo các tùy chọn trình chiếu khác nhau phù hợp với từng đội tượng người xem, ta dùng lệnh gì?",
+    "options": {
+      "A": "Record Slide Show",
+      "B": "Set Up Slide Show",
+      "C": "Broadcast Slide Show",
+      "D": "Custom Slide Show"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "39",
+    "question": "Trong MS PowerPoint 2016, lênh \"Broadcast Slide Show dùng để làm gì?",
+    "options": {
+      "A": "Phát tán việc trình chiếu bài thuyết trình qua Internet",
+      "B": "Phát tán tập tin thuyết trình qua Internet",
+      "C": "Phát tán hình ảnh trong bài thuyết trình qua Internet",
+      "D": "Phát tán âm thanh trong bài thuyết trình qua Internet"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "40",
+    "question": "Trong MS PowerPoint 2016, để thay đổi kiểu nét đường viền hình vẽ, ta dùng lệnh gì trong the Format - Shape Outline?",
+    "options": {
+      "A": "More Outline Colors...",
+      "B": "Weight",
+      "C": "Dashes",
+      "D": "Arrows"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "41",
+    "question": "Trong MS PowerPoint 2016, để xóa một section và các trang chiếu trong section đó, ta sử dụng lệnh nào?",
+    "options": {
+      "A": "Remove Section",
+      "B": "Remove Section & Slides",
+      "C": "Remove All Sections",
+      "D": "Rename Section"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "42",
+    "question": "Trong MS PowerPoint 2016, để chuyển đổi văn bản thành SmartArt ta sử dụng lệnh gì?",
+    "options": {
+      "A": "Change Picture",
+      "B": "Picture Layout",
+      "C": "Thẻ Insert - SmartArt",
+      "D": "Convert to SmartArt"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "43",
+    "question": "Trong MS PowerPoint 2016, để chèn một tập tin âm thanh có sẵn trên mày tỉnh vào bài trình chiều, ta dùng lệnh gì trong thẻ Insert?",
+    "options": {
+      "A": "Audio - Audio From File",
+      "B": "Audio - Record Audio",
+      "C": "Video - Video From File",
+      "D": "Equation"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "44",
+    "question": "Trong MS PowerPoint 2016, để canh đều khoảng cách giữa các hình vẽ theo chiều ngang, ta dùng lệnh gì trong thẻ Format - Align?",
+    "options": {
+      "A": "Align Center",
+      "B": "Align Middle",
+      "C": "Distribute Horizontally",
+      "D": "Distribute Vertically"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "45",
+    "question": "Trong MS PowerPoint 2016, khi kết nối máy tính xách tay với máy chiếu, chế độ kết nối Extend dùng để làm gì?",
+    "options": {
+      "A": "Chỉ hiển thị nội dung trên màn hình máy tính xách tay",
+      "B": "Hiển thị nội dung trên màn hình máy tính và mây chiều như nhau",
+      "C": "Hiển thị nội dung khác nhau trên màn hình máy tính và máy chiếu",
+      "D": "Chỉ hiển thị nội dung trên máy chiều"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "46",
+    "question": "Trong MS PowerPoint 2016, ta không thể lưu bài trình chiều thành dạng hình ảnh nào sau đây?",
+    "options": {
+      "A": "JPG",
+      "B": "GIF",
+      "C": "PNG",
+      "D": "PSD"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "47",
+    "question": "Trong MS PowerPoint 2016, trang chiếu chủ (slide master) dùng để làm gì?",
+    "options": {
+      "A": "Khai báo định dạng chung cho các trang bố cục trong cùng một mẫu định dạng",
+      "B": "Khai báo định dạng font chữ cho các trang bố cục trong cùng một mẫu định dạng",
+      "C": "Khai báo định dạng màu sắc cho các trang bố cục trong cùng một mẫu định dạng",
+      "D": "Khai báo định dạng chung cho các đối tượng đồ họa trong cùng một mẫu định dạng"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "48",
+    "question": "Trong MS PowerPoint 2016, để loại bỏ nền cho hình vẽ (Shape) đang chọn ta dùng lệnh gì?",
+    "options": {
+      "A": "Remove Background",
+      "B": "Clear Formatting",
+      "C": "Crop",
+      "D": "No Fill"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "49",
+    "question": "Trong MS PowerPoint 2016, để ẩn biểu tượng âm thanh khi trình chiếu ta dùng lệnh nào?",
+    "options": {
+      "A": "No Outline",
+      "B": "Hide During Show",
+      "C": "Hide Slide",
+      "D": "Setup Slide Show"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 05",
+    "lesson": "Mô đun IU09",
+    "number": "50",
+    "question": "Trong MS PowerPoint 2016, khi kết nối máy tính xách tay với máy chiếu, ta chọn chế độ kết nối nào để màn hình máy tính và máy chiếu hiển thị giống nhau?",
+    "options": {
+      "A": "Computer only",
+      "B": "Duplicate",
+      "C": "Extend",
+      "D": "Projector only"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "1",
+    "question": "Trong MS Word 2016, để lật đối tượng theo chiều ngang, ta dùng lệnh nào?",
+    "options": {
+      "A": "Rotate Right 90 (độ)",
+      "B": "Rotate Left 90 (độ)",
+      "C": "Flip Vertical",
+      "D": "Flip Horizontal"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "2",
+    "question": "Trong MS Word 2016, khi sao chép văn bản từ Internet vào Word mà muốn xóa hết định dạng văn bản, ta dùng lệnh dán nào?",
+    "options": {
+      "A": "Keep Source Formatting",
+      "B": "Paste",
+      "C": "Merge Formatting",
+      "D": "Keep Text Only"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "3",
+    "question": "Trong MS Word 2016, để xuất kết quả dưới dạng tập tin văn bản khi thực hiện trộn thư, ta dùng lệnh gì?",
+    "options": {
+      "A": "Edit Individual Document",
+      "B": "Print Document",
+      "C": "Send and Email Message",
+      "D": "Preview Results"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "4",
+    "question": "Trong MS Word 2016, để giới hạn không cho phép người dùng chỉnh sửa tài liệu nhưng được phép thực hiện các thao tác lần vết và theo dõi việc thay đổi nội dung tài liệu, trong phần “Editing restrictions\" ta chọn mục nào sau đây?",
+    "options": {
+      "A": "No change (Read only)",
+      "B": "Tracked changes",
+      "C": "Comments",
+      "D": "Filling in forms"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "5",
+    "question": "Trong MS Word 2016, để kết quả tìm kiếm là các từ in đậm, ta dùng lệnh nào trong hộp thoại “Find and Replace\"?",
+    "options": {
+      "A": "Format",
+      "B": "Find whole words only",
+      "C": "Use wildcards",
+      "D": "Special"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "6",
+    "question": "Trong MS Word 2016, để chuyển toàn bộ ảnh thành dạng đơn sắc theo một màu nào đó, ta dùng lệnh nào?",
+    "options": {
+      "A": "Color Saturation",
+      "B": "Recolor",
+      "C": "Set Transparent Color",
+      "D": "Reset Picture"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "7",
+    "question": "Trong MS Word 2016, để khai báo tên tác giả của tài liệu, ta thực hiện trong mục nào?",
+    "options": {
+      "A": "Subject",
+      "B": "Author",
+      "C": "Company",
+      "D": "Title"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "8",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết rà soát (track changes), để chấp nhận các thay đổi đang hiển thị, ta dùng lệnh gì?",
+    "options": {
+      "A": "Accept and Move to Next",
+      "B": "Accept Change",
+      "C": "Accept All Changes Shown",
+      "D": "Accept All Changes in Document"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "9",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết rà soát (track changes), lệnh “Reject All Changes Shown” dùng để làm gì?",
+    "options": {
+      "A": "Hủy bỏ và chuyển đến thay đổi tiếp theo",
+      "B": "Hủy bỏ sự thay đổi tại vị trí con trỏ",
+      "C": "Hủy bỏ tất cả các thay đổi trong văn bản",
+      "D": "Hủy bỏ tất cả các thay đổi đang hiển thị"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "10",
+    "question": "Trong MS Word 2016, để thiết lập khoảng cách dòng mà khoảng cách này sẽ không đổi khi tăng hoặc giảm cỡ chữ, ta dùng lệnh nào?",
+    "options": {
+      "A": "At least",
+      "B": "Multiple",
+      "C": "Exactly",
+      "D": "Single"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "11",
+    "question": "Trong MS Word 2016, để cập nhật số trang trong bảng mục lục mà không thay đổi các đề mục, ta dùng lệnh gì?",
+    "options": {
+      "A": "Update page numbers only",
+      "B": "Update entire table",
+      "C": "Edit Field",
+      "D": "Update Table"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "12",
+    "question": "Trong MS Word 2016, để hạn chế việc chỉnh sửa nội dung trên văn bản, trong vùng “Restrict Formatting and Editing” ta cần khai báo mục nào?",
+    "options": {
+      "A": "Tracked changes",
+      "B": "Comments",
+      "C": "Filling in forms",
+      "D": "No changes (Read only)"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "13",
+    "question": "Trong MS Word 2016, để thực hiện tạo bao thư cho nhiều khách hàng từ một bảng dữ liệu ta dùng loại trộn thư nào?",
+    "options": {
+      "A": "Letters",
+      "B": "Labels...",
+      "C": "Envelopes...",
+      "D": "E-mail Messages"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "14",
+    "question": "Trong MS Word 2016, để đoạn đang chọn với đoạn phía dưới nằm cùng một trang, ta dùng lệnh nào trong phần Pagination?",
+    "options": {
+      "A": "Windows/Orphan control",
+      "B": "Keep with next",
+      "C": "Keep lines together",
+      "D": "Page break before"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "15",
+    "question": "Trong MS Word 2016, để tạo liên kết cho văn bản đang chọn đến địa chỉ trang web, ta dùng lệnh gì?",
+    "options": {
+      "A": "Hyperlink",
+      "B": "Bookmark",
+      "C": "Cross-reference",
+      "D": "Picture"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "16",
+    "question": "Trong MS Word 2016, để theo dõi và đánh dấu sự thay đổi trên văn bản, ta dùng lệnh gì?",
+    "options": {
+      "A": "Track Changes",
+      "B": "Compare",
+      "C": "Restrict Editing",
+      "D": "Spelling & Grammar"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "17",
+    "question": "Trong MS Word 2016, để đánh dấu lỗi ngữ pháp khi nhập văn bản, ta dùng chức năng nào?",
+    "options": {
+      "A": "Check spelling as you type",
+      "B": "Mark grammar erros as you type",
+      "C": "Chek grammar with spelling",
+      "D": "Hide spelling errors in this document only"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU07",
+    "number": "18",
+    "question": "Trong MS Word 2016, để đổi hướng chữ trong một ô của bảng, ta dùng lệnh gì?",
+    "options": {
+      "A": "Text Direction",
+      "B": "Cell Alignment",
+      "C": "Orientation",
+      "D": "Rotat"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "19",
+    "question": "Trong MS Excel 2016, để sắp xếp danh sách dữ liệu theo thứ tự tăng giảm ta dùng lệnh Sort tại thẻ nào?",
+    "options": {
+      "A": "Insert",
+      "B": "Data",
+      "C": "Review",
+      "D": "Page Layout"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "20",
+    "question": "Trong MS Excel 2016, để hiển thị các dòng dữ liệu thỏa điều kiện quy định trước, ta sử dụng chức năng nào dưới đây?",
+    "options": {
+      "A": "Filter",
+      "B": "Conditional Formatting",
+      "C": "Data Validation",
+      "D": "Subtotal"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "21",
+    "question": "Trong MS Excel 2016, khi tạo PivotTable, để xác định các trường thực hiện tính toán thống kê, ta chọn mục nào?",
+    "options": {
+      "A": "Column Labels",
+      "B": "Row Labels",
+      "C": "Values",
+      "D": "Report Filter"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "22",
+    "question": "Trong MS Excel 2016, tên khối ô nào dưới đây là không hợp lệ?",
+    "options": {
+      "A": "1 Dulieu",
+      "B": "Dulieu 1",
+      "C": "Dulieul",
+      "D": "Dulieu"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "23",
+    "question": "Trong MS Excel 2016, để bảo vệ không cho thay đổi cấu trúc bảng tính ta dùng lệnh nào?",
+    "options": {
+      "A": "Protect Worksheet",
+      "B": "Protect Workbook",
+      "C": "Share Workbook",
+      "D": "Allow Users to Edit Ranges"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "24",
+    "question": "Trong MS Excel 2016, khi sử dụng hàm VLOOKUP() thì giá trị dò sẽ được dò tìm ở đâu trong bảng dò?",
+    "options": {
+      "A": "Tại cột đầu tiên",
+      "B": "Tại dòng đầu tiên",
+      "C": "Tại cột bất kỳ",
+      "D": "Tại dòng bất kỳ"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "25",
+    "question": "Trong MS Excel 2016, hàm SUMIF() dùng để làm gì?",
+    "options": {
+      "A": "Đếm các giá trị thỏa điều kiện trong vùng xác định",
+      "B": "Tính tổng các giá trị thỏa điều kiện trong vùng xác định",
+      "C": "Tính trung bình cộng các giá trị thỏa điều kiện trong vùng xác định",
+      "D": "Đếm các giá trị thỏa nhiều điều kiện chứa trong các vùng dữ liệu tương ứng"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "26",
+    "question": "Trong MS Excel 2016, khi tạo PivotTable, để xác định các trường làm tiêu đề cột, ta chọn mục nào?",
+    "options": {
+      "A": "Column Labels",
+      "B": "Row Labels",
+      "C": "Values",
+      "D": "Report Filter"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "27",
+    "question": "Trong MS Excel 2016, ta có một danh sách nhân viên gồm các cột MaNV, Họ Tên, Giới tính (Nam, Nữ), Chức vụ, MaPB, Lương. Ta có thể sử dụng hàm gì để tính tổng số nhân viên nữ theo từng mà phòng ban (MaPB)?",
+    "options": {
+      "A": "SUMIF()",
+      "B": "COUNTIF()",
+      "C": "SUMIFS()",
+      "D": "COUNTIFS()"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "28",
+    "question": "Trong MS Excel 2016, khi thiết lập quy tắc nhập liệu thẻ \"Input message\" trong hộp thoại Data Validation dùng để làm gì?",
+    "options": {
+      "A": "Thiết lập quy tắc nhập liệu",
+      "B": "Thiết lập thông báo lỗi nhập liệu",
+      "C": "Thiết lập thông báo chỉ dẫn khi nhập liệu.",
+      "D": "Hiệu chỉnh thông báo lỗi nhập liệu"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "29",
+    "question": "Trong MS Excel 2016, khi sử dụng chức năng Advanced Filter, công thức nào dưới đây dùng để lọc ra các dòng dữ liệu thỏa điều kiện nhân viên có tên kết thúc bằng ký tự \"N\"? Giả sử ô D1 chứa tiêu đề cột là Tên.",
+    "options": {
+      "A": "=LEFT(D2, LEN(D2))= \"N\"",
+      "B": "=RIGHT(D2, 1) = \"N\"",
+      "C": "=LEFT(D2, 1) = \"N\"",
+      "D": "=RIGHT(D2, LEN(D2))= \"N\""
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "30",
+    "question": "Trong MS Excel 2016, kiểu \"Smallest to Largest\" dùng để sắp xếp danh sách như thế nào?",
+    "options": {
+      "A": "Tăng dần theo cột dữ liệu dạng ngày tháng",
+      "B": "Giảm dần theo cột dữ liệu dạng ngày tháng",
+      "C": "Tăng dần theo cột dữ liệu dạng số",
+      "D": "Giảm dần theo cột dữ liệu dạng số"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "31",
+    "question": "Trong MS Excel 2016, hàm AVERAGEIF() dùng để làm gì?",
+    "options": {
+      "A": "Đếm các giá trị thỏa điều kiện trong vùng xác định",
+      "B": "Tính tổng các giá trị thỏa điều kiện trong vùng xác định",
+      "C": "Tính trung bình cộng các giá trị thỏa điều kiện trong vùng xác định",
+      "D": "Đếm các giá trị thỏa nhiều điều kiện chứa trong các vùng dữ liệu tương ứng"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "32",
+    "question": "Trong MS Excel 2016, khi thực hiện sao chép với chức năng Paste Special, lệnh Operation -Multiply dùng để làm gì?",
+    "options": {
+      "A": "Để lấy dữ liệu trong ô đích nhân với dữ liệu sao chép tương ứng",
+      "B": "Để lấy dữ liệu trong ô đích chia cho dữ liệu sao chép tương ứng",
+      "C": "Để lấy dữ liệu sao chép tương ứng trừ đi dữ liệu trong ô đích",
+      "D": "Để lấy dữ liệu là dữ liệu sao chép tương ứng"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "33",
+    "question": "Trong MS Excel 2016, giả sử có một danh sách nhân viên gồm các cột MaNV, Họ tên, Giới tính (Nam, Nữ), Ngày sinh, Lương. Ta có thể sử dụng hàm gì để tính tổng số nhân viên nam?",
+    "options": {
+      "A": "SUM()",
+      "B": "SUMIF()",
+      "C": "COUNT()",
+      "D": "COUNTIF()"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "34",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc nhập liệu cho khối ô từ A3:A10 có giá trị nhập là giá trị số không được trùng nhau, ta khai báo công thức nào trong Custom Formula?",
+    "options": {
+      "A": "=COUNT($A$3:$A$10)=1",
+      "B": "=COUNTIF(SA$3:$A$10, A3)=1",
+      "C": "=COUNT($A$3:$A$10)>1",
+      "D": "=COUNTIF($A$3:$A$10, A3)>1"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "35",
+    "question": "Trong MS Excel 2016, khi tạo PivotTable, mục Report Filter dùng để làm gì?",
+    "options": {
+      "A": "Xác định các trường (fields) làm tiêu đề cột",
+      "B": "Xác định các trường làm tiêu đề dòng",
+      "C": "Xác định các trường để thực hiện tính toán thống kê",
+      "D": "Xác định các trường làm tiêu chí lọc"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU08",
+    "number": "36",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc nhập liệu từ một danh sách cho trước, ta chọn lệnh nào trong mục Validation Criteria - Allow?",
+    "options": {
+      "A": "Whole number",
+      "B": "Decimal",
+      "C": "Any value",
+      "D": "List"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "37",
+    "question": "Trong MS PowerPoint 2016, lệnh cất xén (Crop) được áp dụng cho đối tượng đồ họa nào?",
+    "options": {
+      "A": "Hình vẽ (Shape)",
+      "B": "Hình ảnh (Picture)",
+      "C": "Chữ nghệ thuật (WordArt)",
+      "D": "Sơ đồ (SmartArt)"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "38",
+    "question": "Trong MS PowerPoint 2016, để chèn các đối tượng đặc biệt (như Bitmap Image, Microsoft Word Document, Microsoft Excel Worksheet), ta dùng lệnh gì trong thẻ Insert?",
+    "options": {
+      "A": "Equation",
+      "B": "Action",
+      "C": "Object",
+      "D": "Symbol"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "39",
+    "question": "Trong MS PowerPoint 2016, định dạng nào dùng để lưu bài trình chiếu dưới dạng mẫu thiết kế?",
+    "options": {
+      "A": "PPSX",
+      "B": "PPTM",
+      "C": "PPTX",
+      "D": "POTX"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "40",
+    "question": "Trong MS PowerPoint 2016, khi chèn âm thanh vào bài trình chiếu, lệnh \"Trim Audio\" dùng để làm gì?",
+    "options": {
+      "A": "Thiết lập âm lượng của bản nhạc từ nhỏ đến lớn dần",
+      "B": "Thiết lập âm lượng của bản nhạc từ lớn đến nhỏ dần",
+      "C": "Cắt bỏ phần đầu hoặc phần cuối của âm thanh",
+      "D": "Cắt xén phần trên hoặc phần dưới của hình ảnh"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "41",
+    "question": "Trong MS PowerPoint 2016, để chèn nhận xét hay bình luận cho bài trình chiếu, ta dùng lệnh gì?",
+    "options": {
+      "A": "New Comment",
+      "B": "Edit Comment",
+      "C": "Show Markup",
+      "D": "Add Notes"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "42",
+    "question": "Trong MS PowerPoint 2016, để quản lý các đối tượng đồ họa trên trang chiếu như việc đổi tên, ẩn/hiện, ta dùng lệnh gì trong thẻ Format?",
+    "options": {
+      "A": "Animation Pane",
+      "B": "Selection Pane",
+      "C": "Navigation Pane",
+      "D": "Reviewing Pane"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "43",
+    "question": "Trong MS PowerPoint 2016, khi chèn siêu liên kết, chức năng Screen Tip dùng để làm gì?",
+    "options": {
+      "A": "Chèn chú thích cho siêu liên kết",
+      "B": "Chèn địa chỉ email cho siêu liên kết",
+      "C": "Chèn URL cho siêu liên kết",
+      "D": "Chèn văn bản hiển thị thay cho siêu liên kết"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "44",
+    "question": "Trong MS PowerPoint 2016, để tạo nhanh bài trình chiếu từ các hình ảnh có sẵn, ta dùng lệnh gì?",
+    "options": {
+      "A": "Thẻ Insert - Photo Album",
+      "B": "Thẻ File - New",
+      "C": "Thẻ Insert - Object",
+      "D": "Thẻ File - Recent"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "45",
+    "question": "Trong MS PowerPoint 2016, để thiết lập chuyển tiếp trang tự động khi trình chiếu, ta dùng lệnh gì trong thẻ Transitions?",
+    "options": {
+      "A": "On Mouse Click",
+      "B": "After",
+      "C": "Duration",
+      "D": "Effect Options"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "46",
+    "question": "Trong MS PowerPoint 2016, để xén hình ảnh có đường viền theo dạng trái tim, ta dùng lệnh gì trong the Format - Crop?",
+    "options": {
+      "A": "Crop to Shape",
+      "B": "Crop",
+      "C": "Aspect Ratio",
+      "D": "Fit"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "47",
+    "question": "Trong MS PowerPoint 2016, để thiết lập chế độ trình chiếu mà không có phần âm thanh thuyết minh đã được ghi lại trước đó, ta chọn mục nào trong hộp thoại Set Up Show?",
+    "options": {
+      "A": "Loop continuously until 'Esc'",
+      "B": "Show without narration",
+      "C": "Show without animation",
+      "D": "Laser pointer color"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "48",
+    "question": "Trong MS PowerPoint 2016, khi thực hiện kết hợp các hình vẽ, để lấy phần hợp nhưng loại trừ phần giao của chúng, ta dùng lệnh gì?",
+    "options": {
+      "A": "Shape Union",
+      "B": "Shape Combine",
+      "C": "Shape Intersect",
+      "D": "Shape Subtract"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "49",
+    "question": "Trong MS PowerPoint 2016, để tạo nhóm các trang chiếu, ta dùng lệnh gì trong thẻ Home - Section?",
+    "options": {
+      "A": "Add Section",
+      "B": "Rename Section",
+      "C": "Remove Section",
+      "D": "Remove All Sections"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 06",
+    "lesson": "Mô đun IU09",
+    "number": "50",
+    "question": "Trong MS PowerPoint 2016, sử dụng lệnh nào để hiện các trang chiếu trong các section?",
+    "options": {
+      "A": "Remove Section",
+      "B": "Expand All",
+      "C": "Remove All Sections",
+      "D": "Remove Section & Slides"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "1",
+    "question": "Trong MS Word 2016, khi thực hiện xóa nền của hình ảnh thì lệnh “Mark Areas to Keep” dùng để làm gì?",
+    "options": {
+      "A": "Đánh dấu các vùng muốn xóa",
+      "B": "Đánh dấu các vùng muốn giữ",
+      "C": "Xóa bỏ điểm đã đánh dấu",
+      "D": "tnshay đổi các điểm đã đánh dấu"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "2",
+    "question": "Trong MS Word 2016, để nhập nhanh văn bản bằng cách dùng ký tự hoặc từ đại diện, ta dùng lệnh gì?",
+    "options": {
+      "A": "Auto Text",
+      "B": "AutoCorrect",
+      "C": "AutoFormat",
+      "D": "AutoFormat As You Type"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "3",
+    "question": "Trong MS Word 2016, tập tin mẫu (template) dùng để làm gì?",
+    "options": {
+      "A": "Tạo văn bản có sẵn nội dung và các kiểu định dạng dựa trên một văn bản mẫu",
+      "B": "Chèn bảng biểu có sẵn định dạng cho người dùng nhập thêm văn bản",
+      "C": "Cung cấp bộ mẫu các kiểu định dạng theo chủ để cho văn bản",
+      "D": "Tạo văn bản trắng nhưng không có sẵn các kiểu định dạng"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "4",
+    "question": "Trong MS Word 2016, để chèn bảng chỉ mục chứa danh sách các thuật ngữ chuyên ngành được sử dụng trong tài liệu, ta dùng lệnh gì?",
+    "options": {
+      "A": "Insert Index",
+      "B": "Insert Table of Figures",
+      "C": "Insert Table of Contents...",
+      "D": "Insert Table of Authorities"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "5",
+    "question": "Trong MS Word 2016, để tạo chú thích cho bảng, ta dùng lệnh gì?",
+    "options": {
+      "A": "Insert Caption",
+      "B": "Insert Citation",
+      "C": "Insert Table...",
+      "D": "Mark Entry"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "6",
+    "question": "Trong MS Word 2016, để chèn ký tự Tab trong bảng, ta dùng phím gì?",
+    "options": {
+      "A": "Shift + Tab",
+      "B": "Ctrl + Tab",
+      "C": "Alt+Tab",
+      "D": "Tab"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "7",
+    "question": "Trong MS Word 2016, lệnh “Repeat Header Rows” trong định dạng bảng dùng để làm gì?",
+    "options": {
+      "A": "Dòng tiêu đề được lặp lại ở đầu mỗi trang khi bảng dữ liệu dài hơn một trang",
+      "B": "Cột tiêu đề được lặp lại ở bên trái mỗi trang khi bảng dữ liệu dài hơn một trang",
+      "C": "Hai dòng đầu được lặp lại ở đầu mỗi trang khi bảng dữ liệu dài hơn một trang",
+      "D": "Hai cột đầu được lặp lại ở bên trái mỗi trang khi bảng dữ liệu dài hơn một trang"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "8",
+    "question": "Trong MS Word 2016, trong thẻ (Table Tools) Layout, lệnh “Convert to Text” dùng để làm gì?",
+    "options": {
+      "A": "Chuyển đổi văn bản thành bảng",
+      "B": "Chuyển đổi bảng thành văn bản",
+      "C": "Chuyển đổi cột văn bản thành bảng",
+      "D": "Chuyển đổi bảng thành cột văn bản"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "9",
+    "question": "Trong MS Word 2016, lệnh Endnote dùng để làm gì?",
+    "options": {
+      "A": "Chèn chú thích vào cuối dòng văn bản",
+      "B": "Chèn chú thích vào cuối đoạn văn bản",
+      "C": "Chèn chú thích vào cuối trang văn bản",
+      "D": "Chèn chú thích vào cuối văn bản"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "10",
+    "question": "Trong MS Word 2016, để chỉnh độ sáng/tối và tương phản của hình, ta dùng lệnh nào?",
+    "options": {
+      "A": "Corrections",
+      "B": "Artitic Effects",
+      "C": "Color",
+      "D": "Compress Pictures"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "11",
+    "question": "Trong MS Word 2016, để các dòng của đoạn đang chọn nằm trên cùng một trang, ta dùng lệnh nào?",
+    "options": {
+      "A": "window/Orphan control",
+      "B": "keep with next",
+      "C": "keep lines together",
+      "D": "page break before"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "12",
+    "question": "Trong MS Word 2016, để các dòng tiêu đề (heading) có cùng định dạng, ta dùng kỹ thuật gì?",
+    "options": {
+      "A": "Style",
+      "B": "Copy",
+      "C": "Find and Replace",
+      "D": "Shading"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "13",
+    "question": "Trong MS Word 2016, để chèn dấu ngắt và văn bản sau điểm chèn nằm ở trang chẵn kế tiếp, ta dùng lệnh gì trong nhóm Section Breaks?",
+    "options": {
+      "A": "Next Page",
+      "B": "Continuous",
+      "C": "Even Page",
+      "D": "Odd Page"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "14",
+    "question": "Trong MS Word 2016, để hiển thị kết quả (value) của field, ta dùng phím gì?",
+    "options": {
+      "A": "F9",
+      "B": "Shift + F9",
+      "C": "Alt+F9",
+      "D": "Ctrl + F9"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "15",
+    "question": "Trong MS Word 2016, để chèn bảng mục lục vào văn bản, ta dùng lệnh gì?",
+    "options": {
+      "A": "Insert Table...",
+      "B": "Insert Table of Figures",
+      "C": "Insert Table of Contents...",
+      "D": "Insert Table of Authorities"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "16",
+    "question": "Trong MS Word 2016, khi hiệu chỉnh tiêu đề cuối trang, lệnh \"Footer from Bottom\" trong thẻ (Header and Footer Tools) Design dùng để làm gì?",
+    "options": {
+      "A": "Thay đổi khoảng cách từ tiêu đề đầu trang đến cạnh trên của giấy",
+      "B": "Thay đổi khoảng cách từ tiêu đề đầu trang đến cạnh dưới của giấy",
+      "C": "Thay đổi khoảng cách từ tiêu đề cuối trang đến cạnh trên của giấy",
+      "D": "Thay đổi khoảng cách từ tiêu đề cuối trang đến cạnh dưới của giấy"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "17",
+    "question": "Trong MS Word 2016, khi dùng chức năng lần vết rà soat (track changes), ta dùng lệnh gì trong mục “Display for Review” để hiện thị văn bản ban đầu không các ký hiệu đánh dấu nội dung đã được sửa đổi?",
+    "options": {
+      "A": "Final",
+      "B": "Final: Show Markup",
+      "C": "Original",
+      "D": "Original: Show Markup"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU07",
+    "number": "18",
+    "question": "Trong MS Word 2016, khi một từ bị phát hiện lỗi chính tả, để thay thế tất cả từ bị lỗi bằng từ gợi ý, ta dùng lệnh gì?",
+    "options": {
+      "A": "Ignore Once",
+      "B": "Ignore All",
+      "C": "Change",
+      "D": "Change All"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "19",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc tại ô A1 chỉ được phép nhập các giá trị số ngoài phạm vi từ 0 đến 10, công thức nào dưới đây là đúng?",
+    "options": {
+      "A": "=AND(A1>=0,A1<= 10)",
+      "B": "=AND(A1<0,A1> 10)",
+      "C": "=OR(A1>=0,A1<= 10)",
+      "D": "=OR(A1<0,A1> 10)"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "20",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc nhập liệu cho một vùng dữ liệu là một trong các giá trị (thùng, bịch, kg, cái), ta chọn lệnh nào trong mục Validation Criteria – Allow?",
+    "options": {
+      "A": "Whole number",
+      "B": "Decimal",
+      "C": "Any value",
+      "D": "List"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "21",
+    "question": "Bạn Hoa có một bảng dữ liệu đã được định dạng khung và tô nền. Để xóa viền khung và màu nền nhưng dữ liệu và các công thức tính toán sẽ được giữu lại, Hoa dùng lệnh nào?",
+    "options": {
+      "A": "Clear All",
+      "B": "Clear Formats",
+      "C": "Clear Contents",
+      "D": "Clear Conmments"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "22",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc nhập liệu là giá trị số thực, ta chọn lệnh nào trong mục Validation Criteria – Allow?",
+    "options": {
+      "A": "Whole number",
+      "B": "Decimal",
+      "C": "Any value",
+      "D": "List"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "23",
+    "question": "Trong MS Excel 2016, ta có một danh sách nhân viên gồm các cột MaNV, Họ Tên, Giới tính (Nam, Nữ), Ngày sinh, Lương. Ta có thể sử dụng hàm gì để tính tổng lương của các nhân viên nam và tổng lương của các nhân viên nữ?",
+    "options": {
+      "A": "SUM()",
+      "B": "SUMIF()",
+      "C": "AVERAGEIF()",
+      "D": "COUNTIF()"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "24",
+    "question": "Trong MS Excel 2016, hàm SUMIFS() dùng để làm gì?",
+    "options": {
+      "A": "Đếm các giá trị thỏa điều kiện trong vùng xác định",
+      "B": "Tính tổng các giá trị thỏa nhiều điều kiện trong các vùng dữ liệu tương ứng",
+      "C": "Tính trung bình cộng các giá trị thỏa nhiều điều kiện trong vùng xác định",
+      "D": "Đếm các giá trị thỏa điều kiện chứa trong các vùng dữ liệu tương ứng"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "25",
+    "question": "Trong MS Excel 2016, cách đặt tên khối ô nào dưới đây là hợp lệ?",
+    "options": {
+      "A": "Data+",
+      "B": "Data",
+      "C": "Data*",
+      "D": "Data/"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "26",
+    "question": "Trong MS Excel 2016, tập tin trang tính mẫu (template) có định dạng là gì?",
+    "options": {
+      "A": "XLSX",
+      "B": "XLSM",
+      "C": "XLTX",
+      "D": "CSV"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "27",
+    "question": "Trong MS Excel 2016, hàm MATCH() dùng để làm gì?",
+    "options": {
+      "A": "Dò tim theo chiều dọc và trả về giá trị từ bảng dữ liệu khác",
+      "B": "Dò tim theo chiều ngang và trả về giá trị từ bảng dữ liệu khác",
+      "C": "Dò tìm giá trị và trả về vị trí của giá trị đó trong dãy dò",
+      "D": "Trả về giá trị trong khối ô được xác định bởi chỉ số dòng và chỉ số cột"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "28",
+    "question": "Trong MS Excel 2016, hàm DCOUNTA() dùng để làm gì?",
+    "options": {
+      "A": "Trả về giá trị số lớn nhất trong một trường của danh sách thỏa điều kiện cho trước",
+      "B": "Trả về giá trị số nhỏ nhất trong một trường của danh sách thỏa điều kiện cho trước",
+      "C": "Đếm các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "D": "Đếm các giá trị số khác rỗng trong một trường của danh sách thỏa điều kiện cho trước"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "29",
+    "question": "Trong MS Excel 2016, hàm DPROUCT() dùng để làm gì?",
+    "options": {
+      "A": "Tính tổng các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "B": "Tính tích các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "C": "Tính trung bình cộng các giá trị số trong một trường của danh sách thỏa điều kiện cho trước",
+      "D": "Trả về giá trị số lớn nhất trong một trương của danh sách thỏa điều kiện cho trước"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "30",
+    "question": "Trong MS Excel 2016, để thiết lập quy tắc nhập liệu cho khối ô từ A3:A10 có giá trị nhập trước ngày 20 tháng 11 năm 2016, ta khai báo công thức nào trong Custom – Formula?",
+    "options": {
+      "A": "=A3<20/11/2016",
+      "B": "=A3<11/20/2016",
+      "C": "=A3<DAY(2016, 11, 20)",
+      "D": "=A3<DATE(2016, 11, 20)"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "31",
+    "question": "Trong MS Excel 2016, chức năng nào bổ sung để hỗ trợ trích lọc số liệu trên bảng thống kê?",
+    "options": {
+      "A": "Sparklines",
+      "B": "Filter",
+      "C": "Advanced Filter",
+      "D": "Slicer"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "32",
+    "question": "Trong MS Excel 2016, công thức =10/0 trả về kết quả là gì?",
+    "options": {
+      "A": "#DIV/0!",
+      "B": "#NAME?",
+      "C": "#N/A",
+      "D": "#VALUE!"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "33",
+    "question": "Trong MS Excel 2016, mỗi cột trong danh sách được gọi là gì?",
+    "options": {
+      "A": "Field",
+      "B": "Database",
+      "C": "Table",
+      "D": "Record"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "34",
+    "question": "Trong MS Excel 2016, hàm nào dưới đây thuộc nhóm hàm thống kê cơ sở dữ liệu?",
+    "options": {
+      "A": "DSUM()",
+      "B": "IF()",
+      "C": "MATCH()",
+      "D": "SUBTOTAL()"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "35",
+    "question": "Trong MS Excel 2016, tên khối ô nào dưới đây là tên hợp lệ?",
+    "options": {
+      "A": "Rank",
+      "B": "Rank()",
+      "C": "1 Data",
+      "D": "Data 1"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU08",
+    "number": "36",
+    "question": "Trong MS Excel 2016, hàm HLOOKUP() dùng để làm gì?",
+    "options": {
+      "A": "Dò tim theo chiều dọc và trả về giá trị từ bảng dữ liệu khác",
+      "B": "Dò tim theo chiều ngang và trả về giá trị từ bảng dữ liệu khác",
+      "C": "Dò tìm giá trị và trả về vị trí của giá trị đó trong dãy dò",
+      "D": "Trả về giá trị trong khối ô được xác định bởi chỉ số dòng và chỉ số cột"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "37",
+    "question": "Trong MS PowerPoint 2016, để thực hiện ghi âm lời thoại cho bài trình chiếu, ta dùng lệnh gì trong thẻ Insert?",
+    "options": {
+      "A": "Audio - Audio From File",
+      "B": "Audio – Record Audio",
+      "C": "Video - Video From File",
+      "D": "Equation"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "38",
+    "question": "Trong MS PowerPoint 2016, để thiết lập nền cho trang chiếu bằng màu đơn sắc, ta dùng lệnh gì trong hộp thoại Format Background?",
+    "options": {
+      "A": "Solid fill",
+      "B": "Gradient fill",
+      "C": "Picture or Texture fill",
+      "D": "Pattern fill"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "39",
+    "question": "Trong MS PowerPoint 2016, khi chèn hiệu ứng hoạt hình cho đối tượng, để làm đối tượng được di chuyển theo quỹ đạo chỉ định trên trang chiếu, ta chọn kiểu hiệu ứng hoạt hình nào?",
+    "options": {
+      "A": "Entrance",
+      "B": "Emphasis",
+      "C": "Exit",
+      "D": "Motion Paths"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "40",
+    "question": "Trong MS PowerPoint 2016, để ghi lại thời gian trình chiếu cho mỗi slide, ta dùng lệnh gì?",
+    "options": {
+      "A": "Rehearse Timings",
+      "B": "Record Slide Show",
+      "C": "Set Up Slide Show",
+      "D": "Custom Slide Show"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "41",
+    "question": "Trong MS Powerpoint 2016, để hiệu chỉnh độ sáng tối (Brightness) cho hình ảnh, ta dùng lệnh nào trong nhóm A djust?",
+    "options": {
+      "A": "Corrections",
+      "B": "Color",
+      "C": "Artistic Effects",
+      "D": "Remove Background"
+    },
+    "answer": "A"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "42",
+    "question": "Trong MS PowerPoint 2016, để chuyển đổi đối tượng hình ảnh thành SmartArt ta sử dụng lệnh gì?",
+    "options": {
+      "A": "Change Picture",
+      "B": "Picture Layout",
+      "C": "Thẻ Insert - SmartArt",
+      "D": "Convert to SmartArt"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "43",
+    "question": "Trong MS PowerPoint 2016, khi chèn hiệu ứng hoạt hình, lệnh Trigger dùng để làm gì?",
+    "options": {
+      "A": "Thi hành hiệu ứng tự động",
+      "B": "Thi hành hiệu ứng khi nhấp chuột vào vị trí bất kỳ trên trang chiếu",
+      "C": "Thi hành hiệu ứng khi nhấp chuột vào một đối tượng được chỉ định",
+      "D": "Thi hành hiệu ứng khi gõ phím Enter"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "44",
+    "question": "Trong MS PowerPoint 2016, khi chèn hiệu ứng hoạt hình cho đối tượng, để làm đối tượng được nổi bật trên trang chiếu, ta chọn kiểu hiệu ứng hoạt hình nào?",
+    "options": {
+      "A": "Entrance",
+      "B": "Emphasis",
+      "C": "Exit",
+      "D": "Motion Paths"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "45",
+    "question": "Trong MS PowerPoint 2016, để thiết lập chế độ trình chiếu ở chế độ toàn màn hình và có người thuyết trình, ta dùng lệnh gì trong hộp thoại Set Up Show?",
+    "options": {
+      "A": "Slide Sorter",
+      "B": "Presented by a speaker (full screen)",
+      "C": "Browsed by an individual (window)",
+      "D": "Browsed at a kiosk (full screen)"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "46",
+    "question": "Trong MS PowerPoint 2016, để hiệu chỉnh siêu liên kết ta dùng lệnh gì khi nhấp chuột phải lên siêu liên kết?",
+    "options": {
+      "A": "Open Hyperlink",
+      "B": "Copy Hyperlink",
+      "C": "Edit Hyperlinhk",
+      "D": "Remove Hyperlink"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "47",
+    "question": "Trong MS PowerPoint 2016, để bỏ đường viền của hình vẽ, ta dùng lệnh gì?",
+    "options": {
+      "A": "No Bevel",
+      "B": "No Glow",
+      "C": "No Soft Edges",
+      "D": "No Outline"
+    },
+    "answer": "D"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "48",
+    "question": "Trong MS PowerPoint 2016, để thay đổi độ dạy đường viền hình vẽ, ta dùng lệnh gì trong thẻ Format – Shape Outline?",
+    "options": {
+      "A": "More Outline Colors...",
+      "B": "Weight",
+      "C": "Dashes",
+      "D": "Arrows"
+    },
+    "answer": "B"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "49",
+    "question": "Trong MS PowerPoint 2016, để xén hình ảnh có đường viền theo tỉ lệ 16:9, ta dùng lệnh gì trong thẻ Format – Crop?",
+    "options": {
+      "A": "Crop to Shape",
+      "B": "Crop",
+      "C": "Aspect Ratio",
+      "D": "Fit"
+    },
+    "answer": "C"
+  },
+  {
+    "BoCauHoi": "Ôn Tập 07",
+    "lesson": "Mô đun IU09",
+    "number": "50",
+    "question": "Trong MS PowerPoint 2016, khi thực hiện kết hợp các hình vẽ, để lấy hình vẽ được chọn đầu tiên loại trừ phần giao với các hình vẽ còn lại, ta dùng lệnh gì?",
+    "options": {
+      "A": "Shape Union",
+      "B": "Shape Combine",
+      "C": "Shape Intersect",
+      "D": "Shape Subtract"
+    },
+    "answer": "D"
+  }
+]
